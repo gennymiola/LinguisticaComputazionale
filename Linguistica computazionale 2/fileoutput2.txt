@@ -1,0 +1,2031 @@
+Last login: Tue Apr  7 21:22:45 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Air-di-Genny:~ gennymiola$ cd desktop
+Air-di-Genny:desktop gennymiola$ python programma2.py lemetamorfosi.txt cuoreditenebra.txt
+I dieci nomi di persona più frequenti delle Metamorfosi sono [(u'Gregor', 57), (u'Mr.Samsa', 16), (u'Grete', 9), (u'Samsa', 6), (u'Mr.', 6), (u'God', 2), (u'Hardly', 2), (u'Anna', 2), (u'Sir', 1), (u'Help', 1)]
+il nome (u'Gregor', 57) è contenuto in One morning, when Gregor Samsa woke from troubled dreams, he found
+himself transformed in his bed into a horrible vermin.
+il nome (u'Gregor', 57) è contenuto in Gregor then turned to look out the window at the dull weather.
+il nome (u'Gregor', 57) è contenuto in And even if he did catch
+the train he would not avoid his boss's anger as the office
+assistant would have been there to see the five o'clock train go, he
+would have put in his report about Gregor's not being there a long
+time ago.
+il nome (u'Gregor', 57) è contenuto in But that
+would be extremely strained and suspicious as in fifteen years of
+service Gregor had never once yet been ill.  His boss would
+certainly come round with the doctor from the medical insurance
+company, accuse his parents of having a lazy son, and accept the
+doctor's recommendation not to make any claim as the doctor believed
+that no-one was ever ill but that many were workshy.
+il nome (u'Gregor', 57) è contenuto in Gregor did in
+fact, apart from excessive sleepiness after sleeping for so long,
+feel completely well and even felt much hungrier than usual.
+il nome (u'Gregor', 57) è contenuto in "Gregor",
+somebody called - it was his mother - "it's quarter to seven.
+il nome (u'Gregor', 57) è contenuto in Gregor was
+shocked when he heard his own voice answering, it could hardly be
+recognised as the voice he had had before.
+il nome (u'Gregor', 57) è contenuto in Gregor had wanted to give a full
+answer and explain everything, but in the circumstances contented
+himself with saying: "Yes, mother, yes, thank-you, I'm getting up
+now."
+il nome (u'Gregor', 57) è contenuto in The change in Gregor's voice probably could not be noticed
+outside through the wooden door, as his mother was satisfied with
+this explanation and shuffled away.
+il nome (u'Gregor', 57) è contenuto in But this short conversation
+made the other members of the family aware that Gregor, against
+their expectations was still at home, and soon his father came
+knocking at one of the side doors, gently, but with his fist.
+il nome (u'Gregor', 57) è contenuto in "Gregor, Gregor", he called, "what's wrong?"
+il nome (u'Gregor', 57) è contenuto in And after a short
+while he called again with a warning deepness in his voice: "Gregor!
+il nome (u'Gregor', 57) è contenuto in Gregor!"
+il nome (u'Gregor', 57) è contenuto in At the other side door his sister came plaintively:
+"Gregor?
+il nome (u'Gregor', 57) è contenuto in Gregor answered to
+both sides: "I'm ready, now", making an effort to remove all the
+strangeness from his voice by enunciating very carefully and putting
+long pauses between each, individual word.
+il nome (u'Gregor', 57) è contenuto in His father went back to
+his breakfast, but his sister whispered: "Gregor, open the door, I
+beg of you."
+il nome (u'Gregor', 57) è contenuto in Gregor, however, had no thought of opening the door,
+and instead congratulated himself for his cautious habit, acquired
+from his travelling, of locking all doors at night even when he was
+at home.
+il nome (u'Gregor', 57) è contenuto in "This is something that can't be
+done in bed", Gregor said to himself, "so don't keep trying to do
+it".
+il nome (u'Gregor', 57) è contenuto in When Gregor was already sticking half way out of the bed - the new
+method was more of a game than an effort, all he had to do was rock
+back and forth - it occurred to him how simple everything would be
+if somebody came to help him.
+il nome (u'Gregor', 57) è contenuto in "They're not opening the door", Gregor said to himself, caught in
+some nonsensical hope.
+il nome (u'Gregor', 57) è contenuto in Gregor only needed to hear
+the visitor's first words of greeting and he knew who it was - the
+chief clerk himself.
+il nome (u'Gregor', 57) è contenuto in Why did Gregor have to be the only one
+condemned to work for a company where they immediately became highly
+suspicious at the slightest shortcoming?
+il nome (u'Gregor', 57) è contenuto in His fall was softened a little by the carpet,
+and Gregor's back was also more elastic than he had thought, which
+made the sound muffled and not too noticeable.
+il nome (u'Gregor', 57) è contenuto in Gregor tried to imagine whether something of the sort
+that had happened to him today could ever happen to the chief clerk
+too; you had to concede that it was possible.
+il nome (u'Gregor', 57) è contenuto in From the room on his right, Gregor's sister whispered to him to let
+him know: "Gregor, the chief clerk is here."
+il nome (u'Gregor', 57) è contenuto in "Yes, I know", said
+Gregor to himself; but without daring to raise his voice loud enough
+for his sister to hear him.
+il nome (u'Gregor', 57) è contenuto in "Gregor", said his father now from the room to his left, "the chief
+clerk has come round and wants to know why you didn't leave on the
+early train.
+il nome (u'Gregor', 57) è contenuto in Why else would Gregor have missed a train!
+il nome (u'Gregor', 57) è contenuto in He's made a little frame, for
+instance, it only took him two or three evenings, you'll be amazed
+how nice it is; it's hanging up in his room; you'll see it as soon
+as Gregor opens the door.
+il nome (u'Gregor', 57) è contenuto in Anyway, I'm glad you're here; we wouldn't
+have been able to get Gregor to open the door by ourselves; he's so
+stubborn; and I'm sure he isn't well, he said this morning that he
+is, but he isn't."
+il nome (u'Gregor', 57) è contenuto in "I'll be there in a moment", said Gregor slowly
+and thoughtfully, but without moving so that he would not miss any
+word of the conversation.
+il nome (u'Gregor', 57) è contenuto in "No", said Gregor.
+il nome (u'Gregor', 57) è contenuto in Gregor was still there and had not the slightest
+intention of abandoning his family.
+il nome (u'Gregor', 57) è contenuto in It was
+only a minor discourtesy, and a suitable excuse could easily be
+found for it later on, it was not something for which Gregor could
+be sacked on the spot.
+il nome (u'Gregor', 57) è contenuto in And it seemed to Gregor much more sensible
+to leave him now in peace instead of disturbing him with talking at
+him and crying.
+il nome (u'Gregor', 57) è contenuto in "But Sir", called Gregor, beside himself and forgetting all else in
+the excitement, "I'll open up immediately, just a moment.
+il nome (u'Gregor', 57) è contenuto in And while Gregor gushed out these words, hardly knowing what he was
+saying, he made his way over to the chest of drawers - this was
+easily done, probably because of the practise he had already had in
+bed - where he now tried to get himself upright.
+il nome (u'Gregor', 57) è contenuto in If they were shocked then it would no longer be Gregor's
+responsibility and he could rest.
+il nome (u'Gregor', 57) è contenuto in They communicated
+across Gregor's room.
+il nome (u'Gregor', 57) è contenuto in Gregor is ill.  Quick, get the doctor.
+il nome (u'Gregor', 57) è contenuto in Did you hear the way
+Gregor spoke just now?"
+il nome (u'Gregor', 57) è contenuto in Gregor, in contrast, had become much calmer.
+il nome (u'Gregor', 57) è contenuto in Gregor slowly pushed his way over to the door with the chair.
+il nome (u'Gregor', 57) è contenuto in Gregor was greatly encouraged by this; but they all should
+have been calling to him, his father and his mother too: "Well done,
+Gregor", they should have cried, "keep at it, keep hold of the
+lock!"
+il nome (u'Gregor', 57) è contenuto in The clear sound
+of the lock as it snapped back was Gregor's sign that he could break
+his concentration, and as he regained his breath he said to himself:
+"So, I didn't need the locksmith after all".
+il nome (u'Gregor', 57) è contenuto in Gregor's mother, her hair still
+dishevelled from bed despite the chief clerk's being there, looked
+at his father.
+il nome (u'Gregor', 57) è contenuto in Then she unfolded her arms, took two steps forward
+towards Gregor and sank down onto the floor into her skirts that
+spread themselves out around her as her head disappeared down onto
+her breast.
+il nome (u'Gregor', 57) è contenuto in His father looked hostile, and clenched his fists as if
+wanting to knock Gregor back into his room.
+il nome (u'Gregor', 57) è contenuto in So Gregor did not go into the room, but leant against the inside of
+the other door which was still held bolted in place.
+il nome (u'Gregor', 57) è contenuto in The washing up from breakfast lay on the
+table; there was so much of it because, for Gregor's father,
+breakfast was the most important meal of the day and he would
+stretch it out for several hours as he sat reading a number of
+different newspapers.
+il nome (u'Gregor', 57) è contenuto in On the wall exactly opposite there was
+photograph of Gregor when he was a lieutenant in the army, his sword
+in his hand and a carefree smile on his face as he called forth
+respect for his uniform and bearing.
+il nome (u'Gregor', 57) è contenuto in "Now, then", said Gregor, well aware that he was the only one to
+have kept calm, "I'll get dressed straight away now, pack up my
+samples and set off.
+il nome (u'Gregor', 57) è contenuto in But the chief clerk had turned away as soon as Gregor had started to
+speak, and, with protruding lips, only stared back at him over his
+trembling shoulders as he left.
+il nome (u'Gregor', 57) è contenuto in He did not keep still for a moment
+while Gregor was speaking, but moved steadily towards the door
+without taking his eyes off him.
+il nome (u'Gregor', 57) è contenuto in Gregor realised that it was out of the question to let the chief
+clerk go away in this mood if his position in the firm was not to be
+put into extreme danger.
+il nome (u'Gregor', 57) è contenuto in That was something his parents did not
+understand very well; over the years, they had become convinced that
+this job would provide for Gregor for his entire life, and besides,
+they had so much to worry about at present that they had lost sight
+of any thought for the future.
+il nome (u'Gregor', 57) è contenuto in Gregor, though, did think about the
+future.
+il nome (u'Gregor', 57) è contenuto in The chief clerk had to be held back, calmed down, convinced
+and finally won over; the future of Gregor and his family depended
+on it!
+il nome (u'Gregor', 57) è contenuto in She was clever; she was already
+in tears while Gregor was still lying peacefully on his back.
+il nome (u'Gregor', 57) è contenuto in But his sister was not there, Gregor would
+have to do the job himself.
+il nome (u'Gregor', 57) è contenuto in And without considering that he still
+was not familiar with how well he could move about in his present
+state, or that his speech still might not - or probably would not -
+be understood, he let go of the door; pushed himself through the
+opening; tried to reach the chief clerk on the landing who,
+ridiculously, was holding on to the banister with both hands; but
+Gregor fell immediately over and, with a little scream as he sought
+something to hold onto, landed on his numerous little legs.
+il nome (u'Gregor', 57) è contenuto in The way she
+held her head suggested she wanted to see Gregor better, but the
+unthinking way she was hurrying backwards showed that she did not;
+she had forgotten that the table was behind her with all the
+breakfast things on it; when she reached the table she sat quickly
+down on it without knowing what she was doing; without even seeming
+to notice that the coffee pot had been knocked over and a gush of
+coffee was pouring down onto the carpet.
+il nome (u'Gregor', 57) è contenuto in "Mother, mother", said Gregor gently, looking up at her.
+il nome (u'Gregor', 57) è contenuto in Gregor, though, had no time to spare for his parents now; the chief
+clerk had already reached the stairs; with his chin on the banister,
+he looked back for the last time.
+il nome (u'Gregor', 57) è contenuto in Gregor made a run for him; he
+wanted to be sure of reaching him; the chief clerk must have
+expected something, as he leapt down several steps at once and
+disappeared; his shouts resounding all around the staircase.
+il nome (u'Gregor', 57) è contenuto in The
+flight of the chief clerk seemed, unfortunately, to put Gregor's
+father into a panic as well.
+il nome (u'Gregor', 57) è contenuto in Until then he had been relatively self
+controlled, but now, instead of running after the chief clerk
+himself, or at least not impeding Gregor as he ran after him,
+Gregor's father seized the chief clerk's stick in his right hand
+(the chief clerk had left it behind on a chair, along with his hat
+and overcoat), picked up a large newspaper from the table with his
+left, and used them to drive Gregor back into his room, stamping his
+foot at him as he went.
+il nome (u'Gregor', 57) è contenuto in Gregor's appeals to his father were of no
+help, his appeals were simply not understood, however much he humbly
+turned his head his father merely stamped his foot all the harder.
+il nome (u'Gregor', 57) è contenuto in Across the room, despite the chilly weather, Gregor's mother had
+pulled open a window, leant far out of it and pressed her hands to
+her face.
+il nome (u'Gregor', 57) è contenuto in Nothing would
+stop Gregor's father as he drove him back, making hissing noises at
+him like a wild man.
+il nome (u'Gregor', 57) è contenuto in Gregor had never had any practice in moving
+backwards and was only able to go very slowly.
+il nome (u'Gregor', 57) è contenuto in If Gregor had only
+been allowed to turn round he would have been back in his room
+straight away, but he was afraid that if he took the time to do that
+his father would become impatient, and there was the threat of a
+lethal blow to his back or head from the stick in his father's hand
+any moment.
+il nome (u'Gregor', 57) è contenuto in Eventually, though, Gregor realised that he had no
+choice as he saw, to his disgust, that he was quite incapable of
+going backwards in a straight line; so he began, as quickly as
+possible and with frequent anxious glances at his father, to turn
+himself round.
+il nome (u'Gregor', 57) è contenuto in It was making Gregor quite confused.
+il nome (u'Gregor', 57) è contenuto in In
+his present mood, it obviously did not occur to his father to open
+the other of the double doors so that Gregor would have enough space
+to get through.
+il nome (u'Gregor', 57) è contenuto in He was merely fixed on the idea that Gregor should
+be got back into his room as quickly as possible.
+il nome (u'Gregor', 57) è contenuto in Nor would he ever
+have allowed Gregor the time to get himself upright as preparation
+for getting through the doorway.
+il nome (u'Gregor', 57) è contenuto in What he did, making more noise
+than ever, was to drive Gregor forwards all the harder as if there
+had been nothing in the way; it sounded to Gregor as if there was
+now more than one father behind him; it was not a pleasant
+experience, and Gregor pushed himself into the doorway without
+regard for what might happen.
+il nome (u'Gregor', 57) è contenuto in It was not until it was getting dark that evening that Gregor awoke
+from his deep and coma-like sleep.
+il nome (u'Gregor', 57) è contenuto in The light from the
+electric street lamps shone palely here and there onto the ceiling
+and tops of the furniture, but down below, where Gregor was, it was
+dark.
+il nome (u'Gregor', 57) è contenuto in Through the crack in the door, Gregor could see that the gas had
+been lit in the living room.
+il nome (u'Gregor', 57) è contenuto in His father at this time would normally
+be sat with his evening paper, reading it out in a loud voice to
+Gregor's mother, and sometimes to his sister, but there was now not
+a sound to be heard.
+il nome (u'Gregor', 57) è contenuto in Gregor's sister would often write and tell him
+about this reading, but maybe his father had lost the habit in
+recent times.
+il nome (u'Gregor', 57) è contenuto in "What a quiet life it is the
+family lead", said Gregor to himself, and, gazing into the darkness,
+felt a great pride that he was able to provide a life like that in
+such a nice home for his sister and parents.
+il nome (u'Gregor', 57) è contenuto in That was something that Gregor did not want to
+think about too much, so he started to move about, crawling up and
+down the room.
+il nome (u'Gregor', 57) è contenuto in Gregor went and waited
+immediately by the door, resolved either to bring the timorous
+visitor into the room in some way or at least to find out who it
+was; but the door was opened no more that night and Gregor waited in
+vain.
+il nome (u'Gregor', 57) è contenuto in It was clear that no-one would
+come into Gregor's room any more until morning; that gave him plenty
+of time to think undisturbed about how he would have to re-arrange
+his life.
+il nome (u'Gregor', 57) è contenuto in Gregor soon had the opportunity to test the strength of his
+decisions, as early the next morning, almost before the night had
+ended, his sister, nearly fully dressed, opened the door from the
+front room and looked anxiously in.
+il nome (u'Gregor', 57) è contenuto in Gregor had pushed his head forward, right to the edge of the couch,
+and watched her.
+il nome (u'Gregor', 57) è contenuto in Gregor was extremely
+curious as to what she would bring in its place, imagining the
+wildest possibilities, but he never could have guessed what his
+sister, in her goodness, actually did bring.
+il nome (u'Gregor', 57) è contenuto in There were old, half-rotten vegetables; bones
+from the evening meal, covered in white sauce that had gone hard; a
+few raisins and almonds; some cheese that Gregor had declared
+inedible two days before; a dry roll and some bread spread with
+butter and salt.
+il nome (u'Gregor', 57) è contenuto in As well as all that she had poured some water into
+the dish, which had probably been permanently set aside for Gregor's
+use, and placed it beside them.
+il nome (u'Gregor', 57) è contenuto in Then, out of consideration for
+Gregor's feelings, as she knew that he would not eat in front of
+her, she hurried out again and even turned the key in the lock so
+that Gregor would know he could make things as comfortable for
+himself as he liked.
+il nome (u'Gregor', 57) è contenuto in Gregor's little legs whirred, at last he could
+eat.
+il nome (u'Gregor', 57) è contenuto in She had hardly turned her back
+before Gregor came out again from under the couch and stretched
+himself.
+il nome (u'Gregor', 57) è contenuto in This was how Gregor received his food each day now, once in the
+morning while his parents and the maid were still asleep, and the
+second time after everyone had eaten their meal at midday as his
+parents would sleep for a little while then as well, and Gregor's
+sister would send the maid away on some errand.
+il nome (u'Gregor', 57) è contenuto in Gregor's father and
+mother certainly did not want him to starve either, but perhaps it
+would have been more than they could stand to have any more
+experience of his feeding than being told about it, and perhaps his
+sister wanted to spare them what distress she could as they were
+indeed suffering enough.
+il nome (u'Gregor', 57) è contenuto in It was impossible for Gregor to find out what they had told the
+doctor and the locksmith that first morning to get them out of the
+flat.
+il nome (u'Gregor', 57) è contenuto in It was only later, when she had become a little more used
+to everything - there was, of course, no question of her ever
+becoming fully used to the situation - that Gregor would sometimes
+catch a friendly comment, or at least a comment that could be
+construed as friendly.
+il nome (u'Gregor', 57) è contenuto in Although Gregor wasn't able to hear any news directly he did listen
+to much of what was said in the next rooms, and whenever he heard
+anyone speaking he would scurry straight to the appropriate door and
+press his whole body against it.
+il nome (u'Gregor', 57) è contenuto in And on
+the very first day the maid had fallen to her knees and begged
+Gregor's mother to let her go without delay.
+il nome (u'Gregor', 57) è contenuto in It was not very clear
+how much she knew of what had happened but she left within a quarter
+of an hour, tearfully thanking Gregor's mother for her dismissal as
+if she had done her an enormous service.
+il nome (u'Gregor', 57) è contenuto in Now Gregor's sister also had to help his mother with the cooking;
+although that was not so much bother as no-one ate very much.
+il nome (u'Gregor', 57) è contenuto in Gregor often heard how one of them would unsuccessfully urge another
+to eat, and receive no more answer than "no thanks, I've had enough"
+or something similar.
+il nome (u'Gregor', 57) è contenuto in Even before the first day had come to an end, his father had
+explained to Gregor's mother and sister what their finances and
+prospects were.
+il nome (u'Gregor', 57) è contenuto in Gregor heard
+how he opened the complicated lock and then closed it again after he
+had taken the item he wanted.
+il nome (u'Gregor', 57) è contenuto in What he heard his father say was some
+of the first good news that Gregor heard since he had first been
+incarcerated in his room.
+il nome (u'Gregor', 57) è contenuto in He had thought that nothing at all
+remained from his father's business, at least he had never told him
+anything different, and Gregor had never asked him about it anyway.
+il nome (u'Gregor', 57) è contenuto in Their business misfortune had reduced the family to a state of total
+despair, and Gregor's only concern at that time had been to arrange
+things so that they could all forget about it as quickly as
+possible.
+il nome (u'Gregor', 57) è contenuto in Gregor converted his success at work
+straight into cash that he could lay on the table at home for the
+benefit of his astonished and delighted family.
+il nome (u'Gregor', 57) è contenuto in They had been good
+times and they had never come again, at least not with the same
+splendour, even though Gregor had later earned so much that he was
+in a position to bear the costs of the whole family, and did bear
+them.
+il nome (u'Gregor', 57) è contenuto in They had even got used to it, both Gregor and the family,
+they took the money with gratitude and he was glad to provide it,
+although there was no longer much warm affection given in return.
+il nome (u'Gregor', 57) è contenuto in Gregor only remained close to his sister now.
+il nome (u'Gregor', 57) è contenuto in During Gregor's short periods in town, conversation with
+his sister would often turn to the conservatory but it was only ever
+mentioned as a lovely dream that could never be realised.
+il nome (u'Gregor', 57) è contenuto in Their
+parents did not like to hear this innocent talk, but Gregor thought
+about it quite hard and decided he would let them know what he
+planned with a grand announcement of it on Christmas day.
+il nome (u'Gregor', 57) è contenuto in When explaining things, his father repeated himself several times,
+partly because it was a long time since he had been occupied with
+these matters himself and partly because Gregor's mother did not
+understand everything the first time.
+il nome (u'Gregor', 57) è contenuto in From these repeated explanations
+Gregor learned, to his pleasure, that despite all their misfortunes
+there was still some money available from the old days.
+il nome (u'Gregor', 57) è contenuto in Besides that, they had not been using up all the
+money that Gregor had been bringing home every month, keeping only a
+little for himself, so that that, too, had been accumulating.
+il nome (u'Gregor', 57) è contenuto in Behind the door, Gregor nodded with enthusiasm in his pleasure at
+this unexpected thrift and caution.
+il nome (u'Gregor', 57) è contenuto in Would Gregor's elderly mother now have to go
+and earn money?
+il nome (u'Gregor', 57) è contenuto in Whenever they began to talk of the need to earn money,
+Gregor would always first let go of the door and then throw himself
+onto the cool, leather sofa next to it, as he became quite hot with
+shame and regret.
+il nome (u'Gregor', 57) è contenuto in If Gregor had only been able to speak to his sister and thank her
+for all that she had to do for him it would have been easier for him
+to bear it; but as it was it caused him pain.
+il nome (u'Gregor', 57) è contenuto in His sister,
+naturally, tried as far as possible to pretend there was nothing
+burdensome about it, and the longer it went on, of course, the
+better she was able to do so, but as time went by Gregor was also
+able to see through it all so much better.
+il nome (u'Gregor', 57) è contenuto in No sooner
+had she come in than she would quickly close the door as a
+precaution so that no-one would have to suffer the view into
+Gregor's room, then she would go straight to the window and pull it
+hurriedly open almost as if she were suffocating.
+il nome (u'Gregor', 57) è contenuto in She would alarm Gregor twice a day with this running about
+and noise making; he would stay under the couch shivering the whole
+while, knowing full well that she would certainly have liked to
+spare him this ordeal, but it was impossible for her to be in the
+same room with him with the windows closed.
+il nome (u'Gregor', 57) è contenuto in One day, about a month after Gregor's transformation when his sister
+no longer had any particular reason to be shocked at his appearance,
+she came into the room a little earlier than usual and found him
+still staring out the window, motionless, and just where he would be
+most horrible.
+il nome (u'Gregor', 57) è contenuto in In itself, his sister's not coming into the room
+would have been no surprise for Gregor as it would have been
+difficult for her to immediately open the window while he was still
+there, but not only did she not come in, she went straight back and
+closed the door behind her, a stranger would have thought he had
+threatened her and tried to bite her.
+il nome (u'Gregor', 57) è contenuto in Gregor went straight to hide
+himself under the couch, of course, but he had to wait until midday
+before his sister came back and she seemed much more uneasy than
+usual.
+il nome (u'Gregor', 57) è contenuto in If she did not think this sheet was necessary then all she had to do
+was take it off again, as it was clear enough that it was no
+pleasure for Gregor to cut himself off so completely.
+il nome (u'Gregor', 57) è contenuto in Gregor even thought he glimpsed a look of
+gratitude one time when he carefully looked out from under the sheet
+to see how his sister liked the new arrangement.
+il nome (u'Gregor', 57) è contenuto in For the first fourteen days, Gregor's parents could not bring
+themselves to come into the room to see him.
+il nome (u'Gregor', 57) è contenuto in But now the two of
+them, father and mother, would often both wait outside the door of
+Gregor's room while his sister tidied up in there, and as soon as
+she went out again she would have to tell them exactly how
+everything looked, what Gregor had eaten, how he had behaved this
+time and whether, perhaps, any slight improvement could be seen.
+il nome (u'Gregor', 57) è contenuto in His mother also wanted to go in and visit Gregor relatively soon but
+his father and sister at first persuaded her against it.
+il nome (u'Gregor', 57) è contenuto in Gregor
+listened very closely to all this, and approved fully.
+il nome (u'Gregor', 57) è contenuto in Later,
+though, she had to be held back by force, which made her call out:
+"Let me go and see Gregor, he is my unfortunate son!
+il nome (u'Gregor', 57) è contenuto in ", and Gregor would think to himself
+that maybe it would be better if his mother came in, not every day
+of course, but one day a week, perhaps; she could understand
+everything much better than his sister who, for all her courage, was
+still just a child after all, and really might not have had an
+adult's appreciation of the burdensome job she had taken on.
+il nome (u'Gregor', 57) è contenuto in Gregor's wish to see his mother was soon realised.
+il nome (u'Gregor', 57) è contenuto in Out of
+consideration for his parents, Gregor wanted to avoid being seen at
+the window during the day, the few square meters of the floor did
+not give him much room to crawl about, it was hard to just lie
+quietly through the night, his food soon stopped giving him any
+pleasure at all, and so, to entertain himself, he got into the habit
+of crawling up and down the walls and ceiling.
+il nome (u'Gregor', 57) è contenuto in Very soon his sister
+noticed Gregor's new way of entertaining himself - he had, after
+all, left traces of the adhesive from his feet as he crawled about -
+and got it into her head to make it as easy as possible for him by
+removing the furniture that got in his way, especially the chest of
+drawers and the desk.
+il nome (u'Gregor', 57) è contenuto in Now, this was not something that she would be
+able to do by herself; she did not dare to ask for help from her
+father; the sixteen year old maid had carried on bravely since the
+cook had left but she certainly would not have helped in this, she
+had even asked to be allowed to keep the kitchen locked at all times
+and never to have to open the door unless it was especially
+important; so his sister had no choice but to choose some time when
+Gregor's father was not there and fetch his mother to help her.
+il nome (u'Gregor', 57) è contenuto in As
+she approached the room, Gregor could hear his mother express her
+joy, but once at the door she went silent.
+il nome (u'Gregor', 57) è contenuto in Gregor had
+hurriedly pulled the sheet down lower over the couch and put more
+folds into it so that everything really looked as if it had just
+been thrown down by chance.
+il nome (u'Gregor', 57) è contenuto in Gregor also refrained, this time, from
+spying out from under the sheet; he gave up the chance to see his
+mother until later and was simply glad that she had come.
+il nome (u'Gregor', 57) è contenuto in The old chest of drawers was too heavy for a pair
+of feeble women to be heaving about, but Gregor listened as they
+pushed it from its place, his sister always taking on the heaviest
+part of the work for herself and ignoring her mother's warnings that
+she would strain herself.
+il nome (u'Gregor', 57) è contenuto in After
+labouring at it for fifteen minutes or more his mother said it would
+be better to leave the chest where it was, for one thing it was too
+heavy for them to get the job finished before Gregor's father got
+home and leaving it in the middle of the room it would be in his way
+even more, and for another thing it wasn't even sure that taking the
+furniture away would really be any help to him.
+il nome (u'Gregor', 57) è contenuto in She thought just
+the opposite; the sight of the bare walls saddened her right to her
+heart; and why wouldn't Gregor feel the same way about it, he'd been
+used to this furniture in his room for a long time and it would make
+him feel abandoned to be in an empty room like that.
+il nome (u'Gregor', 57) è contenuto in Then, quietly,
+almost whispering as if wanting Gregor (whose whereabouts she did
+not know) to hear not even the tone of her voice, as she was
+convinced that he did not understand her words, she added "and by
+taking the furniture away, won't it seem like we're showing that
+we've given up all hope of improvement and we're abandoning him to
+cope for himself?
+il nome (u'Gregor', 57) è contenuto in I think it'd be best to leave the room exactly the
+way it was before so that when Gregor comes back to us again he'll
+find everything unchanged and he'll be able to forget the time in
+between all the easier".
+il nome (u'Gregor', 57) è contenuto in Hearing these words from his mother made Gregor realise that the
+lack of any direct human communication, along with the monotonous
+life led by the family during these two months, must have made him
+confused - he could think of no other way of explaining to himself
+why he had seriously wanted his room emptied out.
+il nome (u'Gregor', 57) è contenuto in His sister, unfortunately, did not agree; she had become used to the
+idea, not without reason, that she was Gregor's spokesman to his
+parents about the things that concerned him.
+il nome (u'Gregor', 57) è contenuto in It was more than childish perversity, of course, or the
+unexpected confidence she had recently acquired, that made her
+insist; she had indeed noticed that Gregor needed a lot of room to
+crawl about in, whereas the furniture, as far as anyone could see,
+was of no use to him at all.
+il nome (u'Gregor', 57) è contenuto in Perhaps this was what tempted Grete to make Gregor's
+situation seem even more shocking than it was so that she could do
+even more for him.
+il nome (u'Gregor', 57) è contenuto in Grete would probably be the only one who would
+dare enter a room dominated by Gregor crawling about the bare walls
+by himself.
+il nome (u'Gregor', 57) è contenuto in Gregor's mother
+already looked uneasy in his room, she soon stopped speaking and
+helped Gregor's sister to get the chest of drawers out with what
+strength she had.
+il nome (u'Gregor', 57) è contenuto in The chest of drawers was something that Gregor
+could do without if he had to, but the writing desk had to stay.
+il nome (u'Gregor', 57) è contenuto in Hardly had the two women pushed the chest of drawers, groaning, out
+of the room than Gregor poked his head out from under the couch to
+see what he could do about it.
+il nome (u'Gregor', 57) è contenuto in His mother was not used to
+the sight of Gregor, he might have made her ill, so Gregor hurried
+backwards to the far end of the couch.
+il nome (u'Gregor', 57) è contenuto in Gregor kept trying to assure himself that nothing unusual was
+happening, it was just a few pieces of furniture being moved after
+all, but he soon had to admit that the women going to and fro, their
+little calls to each other, the scraping of the furniture on the
+floor, all these things made him feel as if he were being assailed
+from all sides.
+il nome (u'Gregor', 57) è contenuto in This picture at least, now totally covered by Gregor, would
+certainly be taken away by no-one.
+il nome (u'Gregor', 57) è contenuto in Her eyes met those of Gregor on the wall.
+il nome (u'Gregor', 57) è contenuto in Gregor could see what Grete had in mind,
+she wanted to take her mother somewhere safe and then chase him down
+from the wall.
+il nome (u'Gregor', 57) è contenuto in But Grete's words had made her mother quite worried, she stepped to
+one side, saw the enormous brown patch against the flowers of the
+wallpaper, and before she even realised it was Gregor that she saw
+screamed: "Oh God, oh God!"
+il nome (u'Gregor', 57) è contenuto in "Gregor!"
+il nome (u'Gregor', 57) è contenuto in She ran into the other room to fetch some kind of
+smelling salts to bring her mother out of her faint; Gregor wanted
+to help too - he could save his picture later, although he stuck
+fast to the glass and had to pull himself off by force; then he,
+too, ran into the next room as if he could advise his sister like in
+the old days; but he had to just stand behind her doing nothing; she
+was looking into various bottles, he startled her when she turned
+round; a bottle fell to the ground and broke; a splinter cut
+Gregor's face, some kind of caustic medicine splashed all over him;
+now, without delaying any longer, Grete took hold of all the bottles
+she could and ran with them in to her mother; she slammed the door
+shut with her foot.
+il nome (u'Gregor', 57) è contenuto in So now Gregor was shut out from his mother,
+who, because of him, might be near to death; he could not open the
+door if he did not want to chase his sister away, and she had to
+stay with his mother; there was nothing for him to do but wait; and,
+oppressed with anxiety and self-reproach, he began to crawl about,
+he crawled over everything, walls, furniture, ceiling, and finally
+in his confusion as the whole room began to spin around him he fell
+down into the middle of the dinner table.
+il nome (u'Gregor', 57) è contenuto in Gregor got out."
+il nome (u'Gregor', 57) è contenuto in It was clear to Gregor that Grete had
+not said enough and that his father took it to mean that something
+bad had happened, that he was responsible for some act of violence.
+il nome (u'Gregor', 57) è contenuto in That meant Gregor would now have to try to calm his father, as he
+did not have the time to explain things to him even if that had been
+possible.
+il nome (u'Gregor', 57) è contenuto in So he fled to the door of his room and pressed himself
+against it so that his father, when he came in from the hall, could
+see straight away that Gregor had the best intentions and would go
+back into his room without delay, that it would not be necessary to
+drive him back but that they had only to open the door and he would
+disappear.
+il nome (u'Gregor', 57) è contenuto in Gregor drew his head back from the
+door and lifted it towards his father.
+il nome (u'Gregor', 57) è contenuto in The same tired man as used to be laying
+there entombed in his bed when Gregor came back from his business
+trips, who would receive him sitting in the armchair in his
+nightgown when he came back in the evenings; who was hardly even
+able to stand up but, as a sign of his pleasure, would just raise
+his arms and who, on the couple of times a year when they went for a
+walk together on a Sunday or public holiday wrapped up tightly in
+his overcoat between Gregor and his mother, would always labour his
+way forward a little more slowly than them, who were already walking
+slowly for his sake; who would place his stick down carefully and,
+if he wanted to say something would invariably stop and gather his
+companions around him.
+il nome (u'Gregor', 57) è contenuto in He took his cap, with its gold monogram from, probably, some
+bank, and threw it in an arc right across the room onto the sofa,
+put his hands in his trouser pockets, pushing back the bottom of his
+long uniform coat, and, with look of determination, walked towards
+Gregor.
+il nome (u'Gregor', 57) è contenuto in Gregor was amazed
+at the enormous size of the soles of his boots, but wasted no time
+with that - he knew full well, right from the first day of his new
+life, that his father thought it necessary to always be extremely
+strict with him.
+il nome (u'Gregor', 57) è contenuto in Gregor remained
+all this time on the floor, largely because he feared his father
+might see it as especially provoking if he fled onto the wall or
+ceiling.
+il nome (u'Gregor', 57) è contenuto in Whatever he did, Gregor had to admit that he certainly
+would not be able to keep up this running about for long, as for
+each step his father took he had to carry out countless movements.
+il nome (u'Gregor', 57) è contenuto in It was an apple; then another one
+immediately flew at him; Gregor froze in shock; there was no longer
+any point in running as his father had decided to bombard him.
+il nome (u'Gregor', 57) è contenuto in An apple
+thrown without much force glanced against Gregor's back and slid off
+without doing any harm.
+il nome (u'Gregor', 57) è contenuto in Another one however, immediately following
+it, hit squarely and lodged in his back; Gregor wanted to drag
+himself away, as if he could remove the surprising, the incredible
+pain by changing his position; but he felt as if nailed to the spot
+and spread himself out, all his senses in confusion.
+il nome (u'Gregor', 57) è contenuto in The last thing
+he saw was the door of his room being pulled open, his sister was
+screaming, his mother ran out in front of her in her blouse (as his
+sister had taken off some of her clothes after she had fainted to
+make it easier for her to breathe), she ran to his father, her
+skirts unfastened and sliding one after another to the ground,
+stumbling over the skirts she pushed herself to his father, her arms
+around him, uniting herself with him totally - now Gregor lost his
+ability to see anything - her hands behind his father's head begging
+him to spare Gregor's life.
+il nome (u'Gregor', 57) è contenuto in No-one dared to remove the apple lodged in Gregor's flesh, so it
+remained there as a visible reminder of his injury.
+il nome (u'Gregor', 57) è contenuto in He had suffered
+it there for more than a month, and his condition seemed serious
+enough to remind even his father that Gregor, despite his current
+sad and revolting form, was a family member who could not be treated
+as an enemy.
+il nome (u'Gregor', 57) è contenuto in Because of his injuries, Gregor had lost much of his mobility -
+probably permanently.
+il nome (u'Gregor', 57) è contenuto in They no longer held the lively conversations of earlier times, of
+course, the ones that Gregor always thought about with longing when
+he was tired and getting into the damp bed in some small hotel room.
+il nome (u'Gregor', 57) è contenuto in Sometimes his father would wake up and say to Gregor's mother
+"you're doing so much sewing again today!
+il nome (u'Gregor', 57) è contenuto in With a kind of stubbornness, Gregor's father refused to take his
+uniform off even at home; while his nightgown hung unused on its peg
+Gregor's father would slumber where he was, fully dressed, as if
+always ready to serve and expecting to hear the voice of his
+superior even here.
+il nome (u'Gregor', 57) è contenuto in The uniform had not been new to start with, but
+as a result of this it slowly became even shabbier despite the
+efforts of Gregor's mother and sister to look after it.
+il nome (u'Gregor', 57) è contenuto in Gregor
+would often spend the whole evening looking at all the stains on
+this coat, with its gold buttons always kept polished and shiny,
+while the old man in it would sleep, highly uncomfortable but
+peaceful.
+il nome (u'Gregor', 57) è contenuto in As soon as it struck ten, Gregor's mother would speak gently to his
+father to wake him and try to persuade him to go to bed, as he
+couldn't sleep properly where he was and he really had to get his
+sleep if he was to be up at six to get to work.
+il nome (u'Gregor', 57) è contenuto in Gregor's mother would tug at his
+sleeve, whisper endearments into his ear, Gregor's sister would
+leave her work to help her mother, but nothing would have any effect
+on him.
+il nome (u'Gregor', 57) è contenuto in And supported by the two women he would
+lift himself up carefully as if he were carrying the greatest load
+himself, let the women take him to the door, send them off and carry
+on by himself while Gregor's mother would throw down her needle and
+his sister her pen so that they could run after his father and
+continue being of help to him.
+il nome (u'Gregor', 57) è contenuto in Who, in this tired and overworked family, would have had time to
+give more attention to Gregor than was absolutely necessary?
+il nome (u'Gregor', 57) è contenuto in The
+household budget became even smaller; so now the maid was dismissed;
+an enormous, thick-boned charwoman with white hair that flapped
+around her head came every morning and evening to do the heaviest
+work; everything else was looked after by Gregor's mother on top of
+the large amount of sewing work she did.
+il nome (u'Gregor', 57) è contenuto in Gregor even learned,
+listening to the evening conversation about what price they had
+hoped for, that several items of jewellery belonging to the family
+had been sold, even though both mother and sister had been very fond
+of wearing them at functions and celebrations.
+il nome (u'Gregor', 57) è contenuto in But the loudest
+complaint was that although the flat was much too big for their
+present circumstances, they could not move out of it, there was no
+imaginable way of transferring Gregor to the new address.
+il nome (u'Gregor', 57) è contenuto in They carried out absolutely everything that the world expects
+from poor people, Gregor's father brought bank employees their
+breakfast, his mother sacrificed herself by washing clothes for
+strangers, his sister ran back and forth behind her desk at the
+behest of the customers, but they just did not have the strength to
+do any more.
+il nome (u'Gregor', 57) è contenuto in And the injury in Gregor's back began to hurt as much
+as when it was new.
+il nome (u'Gregor', 57) è contenuto in After they had come back from taking his father
+to bed Gregor's mother and sister would now leave their work where
+it was and sit close together, cheek to cheek; his mother would
+point to Gregor's room and say "Close that door, Grete", and then,
+when he was in the dark again, they would sit in the next room and
+their tears would mingle, or they would simply sit there staring
+dry-eyed at the table.
+il nome (u'Gregor', 57) è contenuto in Gregor hardly slept at all, either night or day.
+il nome (u'Gregor', 57) è contenuto in Gregor's sister no longer thought about
+how she could please him but would hurriedly push some food or other
+into his room with her foot before she rushed out to work in the
+morning and at midday, and in the evening she would sweep it away
+again with the broom, indifferent as to whether it had been eaten or
+- more often than not - had been left totally untouched.
+il nome (u'Gregor', 57) è contenuto in At first, Gregor
+went into one of the worst of these places when his sister arrived
+as a reproach to her, but he could have stayed there for weeks
+without his sister doing anything about it; she could see the dirt
+as well as he could but she had simply decided to leave him to it.
+il nome (u'Gregor', 57) è contenuto in At the same time she became touchy in a way that was quite new for
+her and which everyone in the family understood - cleaning up
+Gregor's room was for her and her alone.
+il nome (u'Gregor', 57) è contenuto in Gregor's mother did once
+thoroughly clean his room, and needed to use several bucketfuls of
+water to do it - although that much dampness also made Gregor ill
+and he lay flat on the couch, bitter and immobile.
+il nome (u'Gregor', 57) è contenuto in But his mother
+was to be punished still more for what she had done, as hardly had
+his sister arrived home in the evening than she noticed the change
+in Gregor's room and, highly aggrieved, ran back into the living
+room where, despite her mothers raised and imploring hands, she
+broke into convulsive tears.
+il nome (u'Gregor', 57) è contenuto in Her father, of course, was startled
+out of his chair and the two parents looked on astonished and
+helpless; then they, too, became agitated; Gregor's father, standing
+to the right of his mother, accused her of not leaving the cleaning
+of Gregor's room to his sister; from her left, Gregor's sister
+screamed at her that she was never to clean Gregor's room again;
+while his mother tried to draw his father, who was beside himself
+with anger, into the bedroom; his sister, quaking with tears,
+thumped on the table with her small fists; and Gregor hissed in
+anger that no-one had even thought of closing the door to save him
+the sight of this and all its noise.
+il nome (u'Gregor', 57) è contenuto in Gregor's sister was exhausted from going out to work, and looking
+after Gregor as she had done before was even more work for her, but
+even so his mother ought certainly not to have taken her place.
+il nome (u'Gregor', 57) è contenuto in Gregor, on the other hand, ought not to be neglected.
+il nome (u'Gregor', 57) è contenuto in This elderly widow, with a robust bone
+structure that made her able to withstand the hardest of things in
+her long life, wasn't really repelled by Gregor.
+il nome (u'Gregor', 57) è contenuto in Just by chance one
+day, rather than any real curiosity, she opened the door to Gregor's
+room and found herself face to face with him.
+il nome (u'Gregor', 57) è contenuto in Gregor never
+responded to being spoken to in that way, but just remained where he
+was without moving as if the door had never even been opened.
+il nome (u'Gregor', 57) è contenuto in Gregor was so resentful of it
+that he started to move toward her, he was slow and infirm, but it
+was like a kind of attack.
+il nome (u'Gregor', 57) è contenuto in Instead of being afraid, the charwoman
+just lifted up one of the chairs from near the door and stood there
+with her mouth open, clearly intending not to close her mouth until
+the chair in her hand had been slammed down into Gregor's back.
+il nome (u'Gregor', 57) è contenuto in ", she asked when Gregor turned
+round again, and she calmly put the chair back in the corner.
+il nome (u'Gregor', 57) è contenuto in Gregor had almost entirely stopped eating.
+il nome (u'Gregor', 57) è contenuto in These earnest gentlemen - all three of them had
+full beards, as Gregor learned peering through the crack in the door
+one day - were painfully insistent on things' being tidy.
+il nome (u'Gregor', 57) è contenuto in All these things found
+their way into Gregor's room.
+il nome (u'Gregor', 57) è contenuto in The woman most likely meant to fetch the
+things back out again when she had time and the opportunity, or to
+throw everything out in one go, but what actually happened was that
+they were left where they landed when they had first been thrown
+unless Gregor made his way through the junk and moved it somewhere
+else.
+il nome (u'Gregor', 57) è contenuto in But
+Gregor found it easy to give up having the door open, he had, after
+all, often failed to make use of it when it was open and, without
+the family having noticed it, lain in his room in its darkest
+corner.
+il nome (u'Gregor', 57) è contenuto in They sat up at the table where, formerly, Gregor had taken his meals
+with his father and mother, they unfolded the serviettes and picked
+up their knives and forks.
+il nome (u'Gregor', 57) è contenuto in Gregor's mother immediately appeared in
+the doorway with a dish of meat and soon behind her came his sister
+with a dish piled high with potatoes.
+il nome (u'Gregor', 57) è contenuto in It was to his satisfaction, and Gregor's mother and
+sister, who had been looking on anxiously, began to breathe again
+and smiled.
+il nome (u'Gregor', 57) è contenuto in Nonetheless, Gregor's
+father came into the living room before he went into the kitchen,
+bowed once with his cap in his hand and did his round of the table.
+il nome (u'Gregor', 57) è contenuto in It
+seemed remarkable to Gregor that above all the various noises of
+eating their chewing teeth could still be heard, as if they had
+wanted to show Gregor that you need teeth in order to eat and it was
+not possible to perform anything with jaws that are toothless
+however nice they might be.
+il nome (u'Gregor', 57) è contenuto in "I'd like to eat something", said
+Gregor anxiously, "but not anything like they're eating.
+il nome (u'Gregor', 57) è contenuto in Throughout all this time, Gregor could not remember having heard the
+violin being played, but this evening it began to be heard from the
+kitchen.
+il nome (u'Gregor', 57) è contenuto in Someone must have heard them in
+the kitchen, as Gregor's father called out: "Is the playing perhaps
+unpleasant for the gentlemen?
+il nome (u'Gregor', 57) è contenuto in "Oh yes, we'd love to",
+called back Gregor's father as if he had been the violin player
+himself.
+il nome (u'Gregor', 57) è contenuto in Gregor's father soon appeared with the music stand, his mother with
+the music and his sister with the violin.
+il nome (u'Gregor', 57) è contenuto in Drawn in by the
+playing, Gregor had dared to come forward a little and already had
+his head in the living room.
+il nome (u'Gregor', 57) è contenuto in The family was totally preoccupied with
+the violin playing; at first, the three gentlemen had put their
+hands in their pockets and come up far too close behind the music
+stand to look at all the notes being played, and they must have
+disturbed Gregor's sister, but soon, in contrast with the family,
+they  withdrew back to the window with their heads sunk and talking
+to each other at half volume, and they stayed by the window while
+Gregor's father observed them anxiously.
+il nome (u'Gregor', 57) è contenuto in Yet Gregor's sister
+was playing so beautifully.
+il nome (u'Gregor', 57) è contenuto in Gregor crawled a little further forward, keeping his
+head close to the ground so that he could meet her eyes if the
+chance came.
+il nome (u'Gregor', 57) è contenuto in On hearing all this, his sister would break
+out in tears of emotion, and Gregor would climb up to her shoulder
+and kiss her neck, which, since she had been going out to work, she
+had kept free without any necklace or collar.
+il nome (u'Gregor', 57) è contenuto in ", shouted the middle gentleman to Gregor's father,
+pointing, without wasting any more words, with his forefinger at
+Gregor as he slowly moved forward.
+il nome (u'Gregor', 57) è contenuto in The violin went silent, the
+middle of the three gentlemen first smiled at his two friends,
+shaking his head, and then looked back at Gregor.
+il nome (u'Gregor', 57) è contenuto in His father seemed
+to think it more important to calm the three gentlemen before
+driving Gregor out, even though they were not at all upset and
+seemed to think Gregor was more entertaining than the violin playing
+had been.
+il nome (u'Gregor', 57) è contenuto in He rushed up to them with his arms spread out and
+attempted to drive them back into their room at the same time as
+trying to block their view of Gregor with his body.
+il nome (u'Gregor', 57) è contenuto in Now they did
+become a little annoyed, and it was not clear whether it was his
+father's behaviour that annoyed them or the dawning realisation that
+they had had a neighbour like Gregor in the next room without
+knowing it.
+il nome (u'Gregor', 57) è contenuto in They asked Gregor's father for explanations, raised
+their arms like he had, tugged excitedly at their beards and moved
+back towards their room only very slowly.
+il nome (u'Gregor', 57) è contenuto in Meanwhile Gregor's sister
+had overcome the despair she had fallen into when her playing was
+suddenly interrupted.
+il nome (u'Gregor', 57) è contenuto in Gregor's father
+seemed so obsessed with what he was doing that he forgot all the
+respect he owed to his tenants.
+il nome (u'Gregor', 57) è contenuto in He urged them and pressed them
+until, when he was already at the door of the room, the middle of
+the three gentlemen shouted like thunder and stamped his foot and
+thereby brought Gregor's father to a halt.
+il nome (u'Gregor', 57) è contenuto in "I declare here and
+now", he said, raising his hand and glancing at Gregor's mother and
+sister to gain their attention too, "that with regard to the
+repugnant conditions that prevail in this flat and with this family"
+- here he looked briefly but decisively at the floor - "I give
+immediate notice on my room.
+il nome (u'Gregor', 57) è contenuto in Gregor's father staggered back to his seat, feeling his way with his
+hands, and fell into it; it looked as if he was stretching himself
+out for his usual evening nap but from the uncontrolled way his head
+kept nodding it could be seen that he was not sleeping at all.
+il nome (u'Gregor', 57) è contenuto in Throughout all this, Gregor had lain still where the three gentlemen
+had first seen him.
+il nome (u'Gregor', 57) è contenuto in "She's absolutely right", said Gregor's father to himself.
+il nome (u'Gregor', 57) è contenuto in Gregor's sister rushed to his mother and put her hand on her
+forehead.
+il nome (u'Gregor', 57) è contenuto in Her words seemed to give Gregor's father some more
+definite ideas.
+il nome (u'Gregor', 57) è contenuto in He sat upright, played with his uniform cap between
+the plates left by the three gentlemen after their meal, and
+occasionally looked down at Gregor as he lay there immobile.
+il nome (u'Gregor', 57) è contenuto in "We have to try and get rid of it", said Gregor's sister, now
+speaking only to her father, as her mother was too occupied with
+coughing to listen, "it'll be the death of both of you, I can see it
+coming.
+il nome (u'Gregor', 57) è contenuto in "If he could just understand us", repeated Gregor's father, closing
+his eyes in acceptance of his sister's certainty that that was quite
+impossible, "then perhaps we could come to some kind of arrangement
+with him.
+il nome (u'Gregor', 57) è contenuto in You've got to get rid of the idea that that's Gregor.
+il nome (u'Gregor', 57) è contenuto in How can that be
+Gregor?
+il nome (u'Gregor', 57) è contenuto in If it were Gregor he would have seen long ago that it's not
+possible for human beings to live with an animal like that and he
+would have gone of his own free will.
+il nome (u'Gregor', 57) è contenuto in In her alarm,
+which was totally beyond Gregor's comprehension, his sister even
+abandoned his mother as she pushed herself vigorously out of her
+chair as if more willing to sacrifice her own mother than stay
+anywhere near Gregor.
+il nome (u'Gregor', 57) è contenuto in She rushed over to behind her father, who had
+become excited merely because she was and stood up half raising his
+hands in front of Gregor's sister as if to protect her.
+il nome (u'Gregor', 57) è contenuto in But Gregor had had no intention of frightening anyone, least of all
+his sister.
+il nome (u'Gregor', 57) è contenuto in "Maybe now they'll let me turn round", thought Gregor and went back
+to work.
+il nome (u'Gregor', 57) è contenuto in The sudden noise behind Gregor so startled him
+that his little legs collapsed under him.
+il nome (u'Gregor', 57) è contenuto in She had been standing there waiting and
+sprung forward lightly, Gregor had not heard her coming at all, and
+as she turned the key in the lock she said loudly to her parents "At
+last!".
+il nome (u'Gregor', 57) è contenuto in ", Gregor asked himself as he looked round in the
+darkness.
+il nome (u'Gregor', 57) è contenuto in When the cleaner came in early in the morning - they'd often asked
+her not to keep slamming the doors but with her strength and in her
+hurry she still did, so that everyone in the flat knew when she'd
+arrived and from then on it was impossible to sleep in peace - she
+made her usual brief look in on Gregor and at first found nothing
+special.
+il nome (u'Gregor', 57) è contenuto in She happened to be holding the long broom in her hand, so she
+tried to tickle Gregor with it from the doorway.
+il nome (u'Gregor', 57) è contenuto in Mr. Samsa threw the blanket over his
+shoulders,  Mrs. Samsa just came out in her nightdress; and that is
+how they went into Gregor's room.
+il nome (u'Gregor', 57) è contenuto in "That's what I said",  replied the
+cleaner, and to prove it she gave Gregor's body another shove with
+the broom, sending it sideways across the floor.
+il nome (u'Gregor', 57) è contenuto in Gregor's
+body was indeed completely dried up and flat, they had not seen it
+until then, but now he was not lifted up on his little legs, nor did
+he do anything to make them look away.
+il nome (u'Gregor', 57) è contenuto in She just put her finger on her lips and made a quick and
+silent sign to the men that they might like to come into Gregor's
+room.
+il nome (u'Gregor', 57) è contenuto in They did so, and stood around Gregor's corpse with their
+hands in the pockets of their well-worn coats.
+il nome (u'Gregor', 57) è contenuto in The greatest
+improvement for the time being, of course, would be achieved quite
+easily by moving house; what they needed now was a flat that was
+smaller and cheaper than the current one which had been chosen by
+Gregor, one that was in a better location and, most of all, more
+practical.
+Analisi per il nome: (u'Gregor', 57)
+la frase più corta in cui compare (u'Gregor', 57) è: Gregor!"
+la frase più lunga in cui compare (u'Gregor', 57) è: She ran into the other room to fetch some kind of
+smelling salts to bring her mother out of her faint; Gregor wanted
+to help too - he could save his picture later, although he stuck
+fast to the glass and had to pull himself off by force; then he,
+too, ran into the next room as if he could advise his sister like in
+the old days; but he had to just stand behind her doing nothing; she
+was looking into various bottles, he startled her when she turned
+round; a bottle fell to the ground and broke; a splinter cut
+Gregor's face, some kind of caustic medicine splashed all over him;
+now, without delaying any longer, Grete took hold of all the bottles
+she could and ran with them in to her mother; she slammed the door
+shut with her foot.
+i dieci luoghi più frequenti per (u'Gregor', 57) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Gregor', 57) sono [(u'Gregor', 280), (u"Gregor's", 9), (u'Grete', 7), (u'Samsa', 3), (u'God', 2), (u'Sir', 1), (u'Oh', 1), (u'Did', 1), (u'Well', 1), (u'Sunday', 1)]
+i dieci sostantivi più frequenti per (u'Gregor', 57) sono [(u'Gregor', 283), (u'father', 66), (u'room', 62), (u'sister', 61), (u'mother', 59), (u'door', 37), (u'time', 27), (u'way', 22), (u'family', 17), (u'clerk', 15)]
+i dieci verbi più frequenti per (u'Gregor', 57) sono [(u'was', 170), (u'had', 157), (u'would', 93), (u'be', 54), (u'could', 48), (u'have', 42), (u'been', 40), (u'did', 37), (u'said', 20), (u'see', 18)]
+i mesi, i giorni e le date trovati per (u'Gregor', 57) sono: set([u'may'])
+i mesi, i giorni e le date trovati per (u'Gregor', 57) sono: set([u'may'])
+i mesi, i giorni e le date trovati per (u'Gregor', 57) sono: set([u'may', u'Sunday'])
+i mesi, i giorni e le date trovati per (u'Gregor', 57) sono: set([u'may', u'May', u'Sunday'])
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Gregor', 57)  è:'  The greatest
+improvement for the time being, of course, would be achieved quite
+easily by moving house; what they needed now was a flat that was
+smaller and cheaper than the current one which had been chosen by
+Gregor, one that was in a better location and, most of all, more
+practical. ' e la sua probabilità è 4.2692429781e-25
+Analisi per il nome: (u'Mr.Samsa', 16)
+i dieci luoghi più frequenti per (u'Mr.Samsa', 16) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Mr.Samsa', 16) sono []
+i dieci sostantivi più frequenti per (u'Mr.Samsa', 16) sono []
+i dieci verbi più frequenti per (u'Mr.Samsa', 16) sono []
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Mr.Samsa', 16)  è:'  And, as if in confirmation of their new dreams and good
+intentions, as soon as they reached their destination Grete was the
+first to get up and stretch out her young body. ' e la sua probabilità è 4.2692429781e-25
+il nome (u'Grete', 9) è contenuto in Grete!
+il nome (u'Grete', 9) è contenuto in Grete!"
+il nome (u'Grete', 9) è contenuto in Perhaps this was what tempted Grete to make Gregor's
+situation seem even more shocking than it was so that she could do
+even more for him.
+il nome (u'Grete', 9) è contenuto in Grete would probably be the only one who would
+dare enter a room dominated by Gregor crawling about the bare walls
+by himself.
+il nome (u'Grete', 9) è contenuto in He meant to be as careful and
+considerate as he could, but, unfortunately, it was his mother who
+came back first while Grete in the next room had her arms round the
+chest, pushing and pulling at it from side to side by herself
+without, of course, moving it an inch.
+il nome (u'Grete', 9) è contenuto in She stood
+very still, remained there a moment, and then went back out to
+Grete.
+il nome (u'Grete', 9) è contenuto in They had not allowed themselves a long rest and came back quite
+soon; Grete had put her arm around her mother and was nearly
+carrying her.
+il nome (u'Grete', 9) è contenuto in ", said Grete and
+looked around.
+il nome (u'Grete', 9) è contenuto in Gregor could see what Grete had in mind,
+she wanted to take her mother somewhere safe and then chase him down
+from the wall.
+il nome (u'Grete', 9) è contenuto in He would rather jump at Grete's face.
+il nome (u'Grete', 9) è contenuto in But Grete's words had made her mother quite worried, she stepped to
+one side, saw the enormous brown patch against the flowers of the
+wallpaper, and before she even realised it was Gregor that she saw
+screamed: "Oh God, oh God!"
+il nome (u'Grete', 9) è contenuto in She ran into the other room to fetch some kind of
+smelling salts to bring her mother out of her faint; Gregor wanted
+to help too - he could save his picture later, although he stuck
+fast to the glass and had to pull himself off by force; then he,
+too, ran into the next room as if he could advise his sister like in
+the old days; but he had to just stand behind her doing nothing; she
+was looking into various bottles, he startled her when she turned
+round; a bottle fell to the ground and broke; a splinter cut
+Gregor's face, some kind of caustic medicine splashed all over him;
+now, without delaying any longer, Grete took hold of all the bottles
+she could and ran with them in to her mother; she slammed the door
+shut with her foot.
+il nome (u'Grete', 9) è contenuto in The maid, of course, had locked herself in her kitchen so
+that Grete would have to go and answer it.
+il nome (u'Grete', 9) è contenuto in were his first words; Grete's appearance
+must have made everything clear to him.
+il nome (u'Grete', 9) è contenuto in It was clear to Gregor that Grete had
+not said enough and that his father took it to mean that something
+bad had happened, that he was responsible for some act of violence.
+il nome (u'Grete', 9) è contenuto in After they had come back from taking his father
+to bed Gregor's mother and sister would now leave their work where
+it was and sit close together, cheek to cheek; his mother would
+point to Gregor's room and say "Close that door, Grete", and then,
+when he was in the dark again, they would sit in the next room and
+their tears would mingle, or they would simply sit there staring
+dry-eyed at the table.
+il nome (u'Grete', 9) è contenuto in On the way they opened the door
+to the living room where Grete had been sleeping since the three
+gentlemen had moved in; she was fully dressed as if she had never
+been asleep, and the paleness of her face seemed to confirm this.
+il nome (u'Grete', 9) è contenuto in Grete, who had not taken her eyes from the corpse, said:
+"Just look how thin he was.
+il nome (u'Grete', 9) è contenuto in "Grete, come with us in here for a little while", said  Mrs. Samsa
+with a pained smile, and Grete followed her parents into the bedroom
+but not without looking back at the body.
+il nome (u'Grete', 9) è contenuto in All
+of them had been crying a little; Grete now and then pressed her
+face against her father's arm.
+il nome (u'Grete', 9) è contenuto in So they sat at the table and wrote
+three letters of excusal,  Mr. Samsa to his employers,  Mrs. Samsa
+to her contractor and Grete to her principal.
+il nome (u'Grete', 9) è contenuto in Mrs. Samsa and Grete bent down over
+their letters as if intent on continuing with what they were
+writing;  Mr. Samsa saw that the cleaner wanted to start describing
+everything in detail but, with outstretched hand, he made it quite
+clear that she was not to.
+il nome (u'Grete', 9) è contenuto in All the time, Grete was becoming livelier.
+il nome (u'Grete', 9) è contenuto in And, as if in confirmation of their new dreams and good
+intentions, as soon as they reached their destination Grete was the
+first to get up and stretch out her young body.
+Analisi per il nome: (u'Grete', 9)
+la frase più corta in cui compare (u'Grete', 9) è: Grete!
+la frase più lunga in cui compare (u'Grete', 9) è: She ran into the other room to fetch some kind of
+smelling salts to bring her mother out of her faint; Gregor wanted
+to help too - he could save his picture later, although he stuck
+fast to the glass and had to pull himself off by force; then he,
+too, ran into the next room as if he could advise his sister like in
+the old days; but he had to just stand behind her doing nothing; she
+was looking into various bottles, he startled her when she turned
+round; a bottle fell to the ground and broke; a splinter cut
+Gregor's face, some kind of caustic medicine splashed all over him;
+now, without delaying any longer, Grete took hold of all the bottles
+she could and ran with them in to her mother; she slammed the door
+shut with her foot.
+i dieci luoghi più frequenti per (u'Grete', 9) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Grete', 9) sono [(u'Grete', 23), (u'Gregor', 7), (u'Samsa', 5), (u'Mrs.', 3), (u'God', 2), (u'Mr.', 2), (u'Just', 1), (u'Oh', 1), (u"Gregor's", 1), (u'Close', 1)]
+i dieci sostantivi più frequenti per (u'Grete', 9) sono [(u'Grete', 25), (u'mother', 8), (u'room', 7), (u'Gregor', 7), (u'Samsa', 5), (u'face', 4), (u'father', 3), (u'Mrs.', 3), (u'door', 3), (u'course', 2)]
+i dieci verbi più frequenti per (u'Grete', 9) sono [(u'had', 16), (u'was', 15), (u'would', 9), (u'could', 6), (u'said', 4), (u'wanted', 3), (u'been', 3), (u'made', 3), (u'ran', 3), (u'saw', 3)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Grete', 9)  è:'  And, as if in confirmation of their new dreams and good
+intentions, as soon as they reached their destination Grete was the
+first to get up and stretch out her young body. ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Samsa', 6) è contenuto in One morning, when Gregor Samsa woke from troubled dreams, he found
+himself transformed in his bed into a horrible vermin.
+il nome (u'Samsa', 6) è contenuto in A collection of textile samples
+lay spread out on the table - Samsa was a travelling salesman - and
+above it there hung a picture that he had recently cut out of an
+illustrated magazine and housed in a nice, gilded frame.
+il nome (u'Samsa', 6) è contenuto in Then the chief clerk called "Good morning,  Mr. Samsa".
+il nome (u'Samsa', 6) è contenuto in "Well I can't think of any other way of
+explaining it,  Mrs. Samsa", said the chief clerk, "I hope it's
+nothing serious.
+il nome (u'Samsa', 6) è contenuto in The chief clerk now raised his voice, "Mr. Samsa", he called to him,
+"what is wrong?
+il nome (u'Samsa', 6) è contenuto in Your turnover has been very unsatisfactory of late; I grant you that
+it's not the time of year to do especially good business, we
+recognise that; but there simply is no time of year to do no
+business at all,  Mr. Samsa, we cannot allow there to be."
+il nome (u'Samsa', 6) è contenuto in Samsa!
+il nome (u'Samsa', 6) è contenuto in Mr. and  Mrs. Samsa sat upright there in their marriage bed and had
+to make an effort to get over the shock caused by the cleaner before
+they could grasp what she was saying.
+il nome (u'Samsa', 6) è contenuto in Mr. Samsa threw the blanket over his
+shoulders,  Mrs. Samsa just came out in her nightdress; and that is
+how they went into Gregor's room.
+il nome (u'Samsa', 6) è contenuto in ", asked  Mrs. Samsa, looking at the charwoman enquiringly,
+even though she could have checked for herself and could have known
+it even without checking.
+il nome (u'Samsa', 6) è contenuto in Mrs. Samsa made a
+movement as if she wanted to hold back the broom, but did not
+complete it.
+il nome (u'Samsa', 6) è contenuto in "Now then", said  Mr. Samsa, "let's give thanks to God
+for that".
+il nome (u'Samsa', 6) è contenuto in "Grete, come with us in here for a little while", said  Mrs. Samsa
+with a pained smile, and Grete followed her parents into the bedroom
+but not without looking back at the body.
+il nome (u'Samsa', 6) è contenuto in Then the door of the bedroom opened and  Mr. Samsa appeared in his
+uniform with his wife on one arm and his daughter on the other.
+il nome (u'Samsa', 6) è contenuto in ", said  Mr. Samsa, indicating the door and
+without letting the women from him.
+il nome (u'Samsa', 6) è contenuto in "I mean just what I
+said", answered  Mr. Samsa, and, with his two companions, went in a
+straight line towards the man.
+il nome (u'Samsa', 6) è contenuto in "Alright, we'll go
+then", he said, and looked up at  Mr. Samsa as if he had been
+suddenly overcome with humility and wanted permission again from
+Mr. Samsa for his decision.
+il nome (u'Samsa', 6) è contenuto in Mr. Samsa merely opened his eyes wide
+and briefly nodded to him several times.
+il nome (u'Samsa', 6) è contenuto in Now they
+jumped off after their friend as if taken with a sudden fear that
+Mr. Samsa might go into the hallway in front of them and break the
+connection with their leader.
+il nome (u'Samsa', 6) è contenuto in Mr. Samsa and the two women followed
+them out onto the landing; but they had had no reason to mistrust
+the men's intentions and as they leaned over the landing they saw how
+the three gentlemen made slow but steady progress down the many
+steps.
+il nome (u'Samsa', 6) è contenuto in As they turned the corner on each floor they disappeared and
+would reappear a few moments later; the further down they went, the
+more that the Samsa family lost interest in them; when a butcher's
+boy, proud of posture with his tray on his head, passed them on his
+way up and came nearer than they were,  Mr. Samsa and the women came
+away from the landing and went, as if relieved, back into the flat.
+il nome (u'Samsa', 6) è contenuto in So they sat at the table and wrote
+three letters of excusal,  Mr. Samsa to his employers,  Mrs. Samsa
+to her contractor and Grete to her principal.
+il nome (u'Samsa', 6) è contenuto in ", asked  Mr. Samsa.
+il nome (u'Samsa', 6) è contenuto in The almost vertical little ostrich feather on her hat, which
+had been a source of irritation to  Mr. Samsa all the time she had
+been working for them, swayed gently in all directions.
+il nome (u'Samsa', 6) è contenuto in ", asked  Mrs. Samsa, whom the cleaner had the most
+respect for.
+il nome (u'Samsa', 6) è contenuto in Mrs. Samsa and Grete bent down over
+their letters as if intent on continuing with what they were
+writing;  Mr. Samsa saw that the cleaner wanted to start describing
+everything in detail but, with outstretched hand, he made it quite
+clear that she was not to.
+il nome (u'Samsa', 6) è contenuto in "Tonight she gets sacked", said  Mr. Samsa, but he received no reply
+from either his wife or his daughter as the charwoman seemed to have
+destroyed the peace they had only just gained.
+il nome (u'Samsa', 6) è contenuto in Mr. Samsa twisted round in his chair to look at them and sat
+there watching for a while.
+il nome (u'Samsa', 6) è contenuto in With all the
+worry they had been having of late her cheeks had become pale, but,
+while they were talking,  Mr. and  Mrs. Samsa were struck, almost
+simultaneously, with the thought of how their daughter was
+blossoming into a well built and beautiful young lady.
+Analisi per il nome: (u'Samsa', 6)
+la frase più corta in cui compare (u'Samsa', 6) è: Samsa!
+la frase più lunga in cui compare (u'Samsa', 6) è: As they turned the corner on each floor they disappeared and
+would reappear a few moments later; the further down they went, the
+more that the Samsa family lost interest in them; when a butcher's
+boy, proud of posture with his tray on his head, passed them on his
+way up and came nearer than they were,  Mr. Samsa and the women came
+away from the landing and went, as if relieved, back into the flat.
+i dieci luoghi più frequenti per (u'Samsa', 6) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Samsa', 6) sono [(u'Samsa', 32), (u'Mr.', 22), (u'Mrs.', 10), (u'Grete', 4), (u'Gregor', 2), (u'Tonight', 1), (u'God', 1), (u'Alright', 1)]
+i dieci sostantivi più frequenti per (u'Samsa', 6) sono [(u'Samsa', 34), (u'Mr.', 22), (u'Mrs.', 10), (u'Grete', 4), (u'clerk', 3), (u'daughter', 3), (u'landing', 3), (u'women', 3), (u'time', 3), (u'bedroom', 2)]
+i dieci verbi più frequenti per (u'Samsa', 6) sono [(u'had', 11), (u'said', 7), (u'been', 5), (u'went', 4), (u'was', 4), (u'were', 4), (u'wanted', 3), (u'could', 3), (u'asked', 3), (u'made', 3)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Samsa', 6)  è:'  With all the
+worry they had been having of late her cheeks had become pale, but,
+while they were talking,  Mr. and  Mrs. Samsa were struck, almost
+simultaneously, with the thought of how their daughter was
+blossoming into a well built and beautiful young lady. ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Mr.', 6) è contenuto in Then the chief clerk called "Good morning,  Mr. Samsa".
+il nome (u'Mr.', 6) è contenuto in The chief clerk now raised his voice, "Mr. Samsa", he called to him,
+"what is wrong?
+il nome (u'Mr.', 6) è contenuto in Your turnover has been very unsatisfactory of late; I grant you that
+it's not the time of year to do especially good business, we
+recognise that; but there simply is no time of year to do no
+business at all,  Mr. Samsa, we cannot allow there to be."
+il nome (u'Mr.', 6) è contenuto in "Mr.
+il nome (u'Mr.', 6) è contenuto in Mr. and  Mrs. Samsa sat upright there in their marriage bed and had
+to make an effort to get over the shock caused by the cleaner before
+they could grasp what she was saying.
+il nome (u'Mr.', 6) è contenuto in Mr. Samsa threw the blanket over his
+shoulders,  Mrs. Samsa just came out in her nightdress; and that is
+how they went into Gregor's room.
+il nome (u'Mr.', 6) è contenuto in "Now then", said  Mr. Samsa, "let's give thanks to God
+for that".
+il nome (u'Mr.', 6) è contenuto in Then the door of the bedroom opened and  Mr. Samsa appeared in his
+uniform with his wife on one arm and his daughter on the other.
+il nome (u'Mr.', 6) è contenuto in ", said  Mr. Samsa, indicating the door and
+without letting the women from him.
+il nome (u'Mr.', 6) è contenuto in "I mean just what I
+said", answered  Mr. Samsa, and, with his two companions, went in a
+straight line towards the man.
+il nome (u'Mr.', 6) è contenuto in "Alright, we'll go
+then", he said, and looked up at  Mr. Samsa as if he had been
+suddenly overcome with humility and wanted permission again from
+Mr. Samsa for his decision.
+il nome (u'Mr.', 6) è contenuto in Mr. Samsa merely opened his eyes wide
+and briefly nodded to him several times.
+il nome (u'Mr.', 6) è contenuto in Now they
+jumped off after their friend as if taken with a sudden fear that
+Mr. Samsa might go into the hallway in front of them and break the
+connection with their leader.
+il nome (u'Mr.', 6) è contenuto in Mr. Samsa and the two women followed
+them out onto the landing; but they had had no reason to mistrust
+the men's intentions and as they leaned over the landing they saw how
+the three gentlemen made slow but steady progress down the many
+steps.
+il nome (u'Mr.', 6) è contenuto in As they turned the corner on each floor they disappeared and
+would reappear a few moments later; the further down they went, the
+more that the Samsa family lost interest in them; when a butcher's
+boy, proud of posture with his tray on his head, passed them on his
+way up and came nearer than they were,  Mr. Samsa and the women came
+away from the landing and went, as if relieved, back into the flat.
+il nome (u'Mr.', 6) è contenuto in So they sat at the table and wrote
+three letters of excusal,  Mr. Samsa to his employers,  Mrs. Samsa
+to her contractor and Grete to her principal.
+il nome (u'Mr.', 6) è contenuto in ", asked  Mr. Samsa.
+il nome (u'Mr.', 6) è contenuto in The almost vertical little ostrich feather on her hat, which
+had been a source of irritation to  Mr. Samsa all the time she had
+been working for them, swayed gently in all directions.
+il nome (u'Mr.', 6) è contenuto in Mrs. Samsa and Grete bent down over
+their letters as if intent on continuing with what they were
+writing;  Mr. Samsa saw that the cleaner wanted to start describing
+everything in detail but, with outstretched hand, he made it quite
+clear that she was not to.
+il nome (u'Mr.', 6) è contenuto in "Tonight she gets sacked", said  Mr. Samsa, but he received no reply
+from either his wife or his daughter as the charwoman seemed to have
+destroyed the peace they had only just gained.
+il nome (u'Mr.', 6) è contenuto in Mr. Samsa twisted round in his chair to look at them and sat
+there watching for a while.
+il nome (u'Mr.', 6) è contenuto in With all the
+worry they had been having of late her cheeks had become pale, but,
+while they were talking,  Mr. and  Mrs. Samsa were struck, almost
+simultaneously, with the thought of how their daughter was
+blossoming into a well built and beautiful young lady.
+Analisi per il nome: (u'Mr.', 6)
+la frase più corta in cui compare (u'Mr.', 6) è: "Mr.
+la frase più lunga in cui compare (u'Mr.', 6) è: As they turned the corner on each floor they disappeared and
+would reappear a few moments later; the further down they went, the
+more that the Samsa family lost interest in them; when a butcher's
+boy, proud of posture with his tray on his head, passed them on his
+way up and came nearer than they were,  Mr. Samsa and the women came
+away from the landing and went, as if relieved, back into the flat.
+i dieci luoghi più frequenti per (u'Mr.', 6) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Mr.', 6) sono [(u'Samsa', 26), (u'Mr.', 22), (u'Mrs.', 5), (u'Grete', 2), (u'Tonight', 1), (u'God', 1), (u'Gregor', 1), (u'Mr', 1), (u'Alright', 1)]
+i dieci sostantivi più frequenti per (u'Mr.', 6) sono [(u'Samsa', 26), (u'Mr.', 22), (u'Mrs.', 5), (u'daughter', 3), (u'landing', 3), (u'women', 3), (u'time', 3), (u'Grete', 2), (u'year', 2), (u'business', 2)]
+i dieci verbi più frequenti per (u'Mr.', 6) sono [(u'had', 9), (u'said', 5), (u'been', 5), (u'were', 4), (u'went', 4), (u'is', 3), (u'sat', 3), (u'was', 3), (u'came', 3), (u'go', 2)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Mr.', 6)  è:'  With all the
+worry they had been having of late her cheeks had become pale, but,
+while they were talking,  Mr. and  Mrs. Samsa were struck, almost
+simultaneously, with the thought of how their daughter was
+blossoming into a well built and beautiful young lady. ' e la sua probabilità è 3.22273586444e-24
+il nome (u'God', 2) è contenuto in "Oh, God", he thought, "what a strenuous career it is that I've
+chosen!
+il nome (u'God', 2) è contenuto in "God in Heaven!"
+il nome (u'God', 2) è contenuto in "Oh, God!"
+il nome (u'God', 2) è contenuto in She did not see him straight
+away, but when she did notice him under the couch - he had to be
+somewhere, for God's sake, he couldn't have flown away - she was so
+shocked that she lost control of herself and slammed the door shut
+again from outside.
+il nome (u'God', 2) è contenuto in But Grete's words had made her mother quite worried, she stepped to
+one side, saw the enormous brown patch against the flowers of the
+wallpaper, and before she even realised it was Gregor that she saw
+screamed: "Oh God, oh God!"
+il nome (u'God', 2) è contenuto in "Now then", said  Mr. Samsa, "let's give thanks to God
+for that".
+Analisi per il nome: (u'God', 2)
+la frase più corta in cui compare (u'God', 2) è: "Oh, God!"
+la frase più lunga in cui compare (u'God', 2) è: She did not see him straight
+away, but when she did notice him under the couch - he had to be
+somewhere, for God's sake, he couldn't have flown away - she was so
+shocked that she lost control of herself and slammed the door shut
+again from outside.
+i dieci luoghi più frequenti per (u'God', 2) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'God', 2) sono [(u'God', 7), (u'Heaven', 1), (u'Oh', 1), (u'Gregor', 1), (u"I've", 1), (u'Grete', 1), (u'Samsa', 1), (u'Mr.', 1)]
+i dieci sostantivi più frequenti per (u'God', 2) sono [(u'God', 7), (u'control', 1), (u'Gregor', 1), (u'Mr.', 1), (u'thanks', 1), (u"I've", 1), (u'chosen', 1), (u'Grete', 1), (u'Samsa', 1), (u'outside', 1)]
+i dieci verbi più frequenti per (u'God', 2) sono [(u'did', 2), (u'saw', 2), (u'had', 2), (u'was', 2), (u'be', 1), (u'made', 1), (u'said', 1), (u'lost', 1), (u'is', 1), (u'worried', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'God', 2)  è:'  "Now then", said  Mr. Samsa, "let's give thanks to God
+for that". ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Hardly', 2) è contenuto in Hardly
+had that happened than, for the first time that day, he began to
+feel alright with his body; the little legs had the solid ground
+under them; to his pleasure, they did exactly as he told them; they
+were even making the effort to carry him where he wanted to go; and
+he was soon believing that all his sorrows would soon be finally at
+an end.
+il nome (u'Hardly', 2) è contenuto in Hardly aware
+of what he was doing other than a slight feeling of shame, he
+hurried under the couch.
+il nome (u'Hardly', 2) è contenuto in Hardly had the two women pushed the chest of drawers, groaning, out
+of the room than Gregor poked his head out from under the couch to
+see what he could do about it.
+Analisi per il nome: (u'Hardly', 2)
+la frase più corta in cui compare (u'Hardly', 2) è: Hardly aware
+of what he was doing other than a slight feeling of shame, he
+hurried under the couch.
+la frase più lunga in cui compare (u'Hardly', 2) è: Hardly
+had that happened than, for the first time that day, he began to
+feel alright with his body; the little legs had the solid ground
+under them; to his pleasure, they did exactly as he told them; they
+were even making the effort to carry him where he wanted to go; and
+he was soon believing that all his sorrows would soon be finally at
+an end.
+i dieci luoghi più frequenti per (u'Hardly', 2) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Hardly', 2) sono [(u'Gregor', 1)]
+i dieci sostantivi più frequenti per (u'Hardly', 2) sono [(u'couch', 2), (u'body', 1), (u'head', 1), (u'feeling', 1), (u'end', 1), (u'room', 1), (u'drawers', 1), (u'Gregor', 1), (u'chest', 1), (u'sorrows', 1)]
+i dieci verbi più frequenti per (u'Hardly', 2) sono [(u'had', 3), (u'was', 2), (u'groaning', 1), (u'do', 1), (u'doing', 1), (u'hurried', 1), (u'pushed', 1), (u'see', 1), (u'go', 1), (u'would', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Hardly', 2)  è:'  Hardly had the two women pushed the chest of drawers, groaning, out
+of the room than Gregor poked his head out from under the couch to
+see what he could do about it. ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Anna', 2) è contenuto in "Anna!
+il nome (u'Anna', 2) è contenuto in Anna!"
+Analisi per il nome: (u'Anna', 2)
+la frase più corta in cui compare (u'Anna', 2) è: "Anna!
+la frase più lunga in cui compare (u'Anna', 2) è: Anna!"
+i dieci luoghi più frequenti per (u'Anna', 2) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Anna', 2) sono []
+i dieci sostantivi più frequenti per (u'Anna', 2) sono [(u'Anna', 2)]
+i dieci verbi più frequenti per (u'Anna', 2) sono []
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Anna', 2)  è:'  Anna!" ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Sir', 1) è contenuto in "But Sir", called Gregor, beside himself and forgetting all else in
+the excitement, "I'll open up immediately, just a moment.
+Analisi per il nome: (u'Sir', 1)
+la frase più corta in cui compare (u'Sir', 1) è: "But Sir", called Gregor, beside himself and forgetting all else in
+the excitement, "I'll open up immediately, just a moment.
+la frase più lunga in cui compare (u'Sir', 1) è: "But Sir", called Gregor, beside himself and forgetting all else in
+the excitement, "I'll open up immediately, just a moment.
+i dieci luoghi più frequenti per (u'Sir', 1) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Sir', 1) sono [(u'Sir', 1), (u'Gregor', 1)]
+i dieci sostantivi più frequenti per (u'Sir', 1) sono [(u'beside', 1), (u'Sir', 1), (u'Gregor', 1), (u'excitement', 1), (u'moment', 1)]
+i dieci verbi più frequenti per (u'Sir', 1) sono [(u'forgetting', 1), (u"'ll", 1), (u'called', 1), (u'open', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Sir', 1)  è:'  "But Sir", called Gregor, beside himself and forgetting all else in
+the excitement, "I'll open up immediately, just a moment. ' e la sua probabilità è 3.22273586444e-24
+il nome (u'Help', 1) è contenuto in His mother was not far away in
+front of him and seemed, at first, quite engrossed in herself, but
+then she suddenly jumped up with her arms outstretched and her
+fingers spread shouting: "Help, for pity's sake, Help!"
+Analisi per il nome: (u'Help', 1)
+la frase più corta in cui compare (u'Help', 1) è: His mother was not far away in
+front of him and seemed, at first, quite engrossed in herself, but
+then she suddenly jumped up with her arms outstretched and her
+fingers spread shouting: "Help, for pity's sake, Help!"
+la frase più lunga in cui compare (u'Help', 1) è: His mother was not far away in
+front of him and seemed, at first, quite engrossed in herself, but
+then she suddenly jumped up with her arms outstretched and her
+fingers spread shouting: "Help, for pity's sake, Help!"
+i dieci luoghi più frequenti per (u'Help', 1) sono [(u'Gregor', 224), (u'Grete', 16), (u'Please', 3), (u"Gregor's", 3), (u'Nothing', 2), (u'Heaven', 1), (u'Leant', 1), (u'Charlottenstrasse', 1), (u'Samsa', 1), (u'Someone', 1)]
+le dieci persone più frequenti (u'Help', 1) sono [(u'Help', 1)]
+i dieci sostantivi più frequenti per (u'Help', 1) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Help', 1) sono [(u'jumped', 1), (u'engrossed', 1), (u'shouting', 1), (u'spread', 1), (u'was', 1), (u'seemed', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Help', 1)  è:'  His mother was not far away in
+front of him and seemed, at first, quite engrossed in herself, but
+then she suddenly jumped up with her arms outstretched and her
+fingers spread shouting: "Help, for pity's sake, Help!" ' e la sua probabilità è 3.22273586444e-24
+I dieci nomi di persona più frequenti di Cuore di tenebra sono [(u'Kurtz', 62), (u'Mr.Kurtz', 39), (u'Marlow', 9), (u'Mr.', 7), (u'Jove', 5), (u'Towson', 3), (u'Fresleven', 3), (u'SavageCustoms', 2), (u'Hang', 2), (u'Nowhere', 2)]
+il nome (u'Kurtz', 62) è contenuto in Kurtz.'
+il nome (u'Kurtz', 62) è contenuto in On my asking who Mr. Kurtz was, he
+said he was a first-class agent; and seeing my disappointment at
+this information, he added slowly, laying down his pen, 'He is a very
+remarkable person.'
+il nome (u'Kurtz', 62) è contenuto in Further questions elicited from him that Mr. Kurtz
+was at present in charge of a trading-post, a very important one, in the
+true ivory-country, at 'the very bottom of there.
+il nome (u'Kurtz', 62) è contenuto in 'When you see Mr. Kurtz'
+he went on, 'tell him from me that everything here'--he glanced at the
+deck--' is very satisfactory.
+il nome (u'Kurtz', 62) è contenuto in There were rumours that a very important
+station was in jeopardy, and its chief, Mr. Kurtz, was ill. Hoped it was
+not true.
+il nome (u'Kurtz', 62) è contenuto in Mr. Kurtz was...
+il nome (u'Kurtz', 62) è contenuto in Hang Kurtz,
+I thought.
+il nome (u'Kurtz', 62) è contenuto in I interrupted him by saying I had heard of Mr. Kurtz on the
+coast.
+il nome (u'Kurtz', 62) è contenuto in Then he began again, assuring me Mr. Kurtz was the best agent he had, an
+exceptional man, of the greatest importance to the Company; therefore
+I could understand his anxiety.
+il nome (u'Kurtz', 62) è contenuto in Kurtz!'
+il nome (u'Kurtz', 62) è contenuto in I heard the name of Kurtz pronounced, then the words, 'take
+advantage of this unfortunate accident.'
+il nome (u'Kurtz', 62) è contenuto in To my
+question he said Mr. Kurtz had painted this--in this very station more
+than a year ago--while waiting for means to go to his trading post.
+il nome (u'Kurtz', 62) è contenuto in Kurtz?'
+il nome (u'Kurtz', 62) è contenuto in 'When Mr. Kurtz,' I continued, severely, 'is
+General Manager, you won't have the opportunity.'
+il nome (u'Kurtz', 62) è contenuto in 'My dear sir,' said the fellow, 'I don't want to be misunderstood, and
+especially by you, who will see Mr. Kurtz long before I can have
+that pleasure.
+il nome (u'Kurtz', 62) è contenuto in He, don't you see, had
+been planning to be assistant-manager by and by under the present man,
+and I could see that the coming of that Kurtz had upset them both not a
+little.
+il nome (u'Kurtz', 62) è contenuto in I could
+see a little ivory coming out from there, and I had heard Mr. Kurtz was
+in there.
+il nome (u'Kurtz', 62) è contenuto in I would
+not have gone so far as to fight for Kurtz, but I went for him near
+enough to a lie.
+il nome (u'Kurtz', 62) è contenuto in This simply because I had a notion
+it somehow would be of help to that Kurtz whom at the time I did not
+see--you understand.
+il nome (u'Kurtz', 62) è contenuto in Mr. Kurtz was a 'universal
+genius,' but even a genius would find it easier to work with 'adequate
+tools--intelligent men.'
+il nome (u'Kurtz', 62) è contenuto in I said I
+could see that very well, but what I wanted was a certain quantity of
+rivets--and rivets were what really Mr. Kurtz wanted, if he had only
+known it.
+il nome (u'Kurtz', 62) è contenuto in I had plenty of time for meditation,
+and now and then I would give some thought to Kurtz.
+il nome (u'Kurtz', 62) è contenuto in They had been talking about Kurtz.
+il nome (u'Kurtz', 62) è contenuto in The
+other explained that it had come with a fleet of canoes in charge of an
+English half-caste clerk Kurtz had with him; that Kurtz had apparently
+intended to return himself, the station being by that time bare of goods
+and stores, but after coming three hundred miles, had suddenly decided
+to go back, which he started to do alone in a small dugout with four
+paddlers, leaving the half-caste to continue down the river with the
+ivory.
+il nome (u'Kurtz', 62) è contenuto in As to me, I seemed
+to see Kurtz for the first time.
+il nome (u'Kurtz', 62) è contenuto in I gathered in
+snatches that this was some man supposed to be in Kurtz's district, and
+of whom the manager did not approve.
+il nome (u'Kurtz', 62) è contenuto in I was then rather excited at
+the prospect of meeting Kurtz very soon.
+il nome (u'Kurtz', 62) è contenuto in It was just two months from the day we left the creek
+when we came to the bank below Kurtz's station.
+il nome (u'Kurtz', 62) è contenuto in For me it
+crawled towards Kurtz--exclusively; but when the steam-pipes started
+leaking we crawled very slow.
+il nome (u'Kurtz', 62) è contenuto in So he sweated and fired up and watched the glass
+fearfully (with an impromptu charm, made of rags, tied to his arm, and
+a piece of polished bone, as big as a watch, stuck flatways through his
+lower lip), while the wooded banks slipped past us slowly, the short
+noise was left behind, the interminable miles of silence--and we crept
+on, towards Kurtz.
+il nome (u'Kurtz', 62) è contenuto in There was a signature, but it was illegible--not
+Kurtz--a much longer word.
+il nome (u'Kurtz', 62) è contenuto in Sometimes I would pick out a
+tree a little way ahead to measure our progress towards Kurtz by, but
+I lost it invariably before we got abreast.
+il nome (u'Kurtz', 62) è contenuto in I fretted and fumed and took to arguing with
+myself whether or no I would talk openly with Kurtz; but before I could
+come to any conclusion it occurred to me that my speech or my silence,
+indeed any action of mine, would be a mere futility.
+il nome (u'Kurtz', 62) è contenuto in “Towards the evening of the second day we judged ourselves about eight
+miles from Kurtz's station.
+il nome (u'Kurtz', 62) è contenuto in 'It is very
+serious,' said the manager's voice behind me; 'I would be desolated if
+anything should happen to Mr. Kurtz before we came up.'
+il nome (u'Kurtz', 62) è contenuto in The
+approach to this Kurtz grubbing for ivory in the wretched bush was beset
+by as many dangers as though he had been an enchanted princess sleeping
+in a fabulous castle.
+il nome (u'Kurtz', 62) è contenuto in “It developed itself, I should say, two hours after the fog lifted, and
+its commencement was at a spot, roughly speaking, about a mile and a
+half below Kurtz's station.
+il nome (u'Kurtz', 62) è contenuto in 'And by the way, I suppose
+Mr. Kurtz is dead as well by this time.'
+il nome (u'Kurtz', 62) è contenuto in I couldn't have been
+more disgusted if I had travelled all this way for the sole purpose of
+talking with Mr. Kurtz.
+il nome (u'Kurtz', 62) è contenuto in I flung one shoe overboard,
+and became aware that that was exactly what I had been looking forward
+to--a talk with Kurtz.
+il nome (u'Kurtz', 62) è contenuto in I was cut to the quick at the idea of having lost the
+inestimable privilege of listening to the gifted Kurtz.
+il nome (u'Kurtz', 62) è contenuto in You should have heard the
+disinterred body of Mr. Kurtz saying, 'My Intended.'
+il nome (u'Kurtz', 62) è contenuto in And the lofty
+frontal bone of Mr. Kurtz!
+il nome (u'Kurtz', 62) è contenuto in It appears these niggers do bury the
+tusks sometimes--but evidently they couldn't bury this parcel deep
+enough to save the gifted Mr. Kurtz from his fate.
+il nome (u'Kurtz', 62) è contenuto in Mind, I am not trying to excuse or even explain--I am
+trying to account to myself for--for--Mr. Kurtz--for the shade of Mr.
+Kurtz.
+il nome (u'Kurtz', 62) è contenuto in The original Kurtz had been educated
+partly in England, and--as he was good enough to say himself--his
+sympathies were in the right place.
+il nome (u'Kurtz', 62) è contenuto in All Europe contributed to the making of Kurtz;
+and by and by I learned that, most appropriately, the International
+Society for the Suppression of Savage Customs had intrusted him with the
+making of a report, for its future guidance.
+il nome (u'Kurtz', 62) è contenuto in But this must have been before his--let us say--nerves,
+went wrong, and caused him to preside at certain midnight dances ending
+with unspeakable rites, which--as far as I reluctantly gathered
+from what I heard at various times--were offered up to him--do you
+understand?--to Mr. Kurtz himself.
+il nome (u'Kurtz', 62) è contenuto in He had no restraint,
+no restraint--just like Kurtz--a tree swayed by the wind.
+il nome (u'Kurtz', 62) è contenuto in They had given up Kurtz, they had given up the
+station; Kurtz was dead, and the station had been burnt--and so on--and
+so on.
+il nome (u'Kurtz', 62) è contenuto in The red-haired pilgrim was beside himself with the thought that
+at least this poor Kurtz had been properly avenged.
+il nome (u'Kurtz', 62) è contenuto in Upon this they forgot Kurtz, and began
+to howl at me with indignant protests.
+il nome (u'Kurtz', 62) è contenuto in Kurtz?'
+il nome (u'Kurtz', 62) è contenuto in Here I met Mr. Kurtz,' he said, youthfully solemn and
+reproachful.
+il nome (u'Kurtz', 62) è contenuto in You take Kurtz away quick--quick--I tell
+you.'
+il nome (u'Kurtz', 62) è contenuto in I did not envy him his devotion
+to Kurtz, though.
+il nome (u'Kurtz', 62) è contenuto in I suppose Kurtz wanted an
+audience, because on a certain occasion, when encamped in the forest,
+they had talked all night, or more probably Kurtz had talked.
+il nome (u'Kurtz', 62) è contenuto in He had, as he informed me proudly, managed to nurse
+Kurtz through two illnesses (he alluded to it as you would to some risky
+feat), but as a rule Kurtz wandered alone, far in the depths of the
+forest.
+il nome (u'Kurtz', 62) è contenuto in 'Kurtz got the
+tribe to follow him, did he?'
+il nome (u'Kurtz', 62) è contenuto in It was curious to see his mingled eagerness
+and reluctance to speak of Kurtz.
+il nome (u'Kurtz', 62) è contenuto in You can't judge Mr. Kurtz as you would an ordinary man.
+il nome (u'Kurtz', 62) è contenuto in Mr. Kurtz couldn't be mad.
+il nome (u'Kurtz', 62) è contenuto in The
+Russian was explaining to me that it was only lately that Mr. Kurtz had
+come down to the river, bringing along with him all the fighting men of
+that lake tribe.
+il nome (u'Kurtz', 62) è contenuto in In fact, the manager said
+afterwards that Mr. Kurtz's methods had ruined the district.
+il nome (u'Kurtz', 62) è contenuto in They only
+showed that Mr. Kurtz lacked restraint in the gratification of his
+various lusts, that there was something wanting in him--some small
+matter which, when the pressing need arose, could not be found under
+his magnificent eloquence.
+il nome (u'Kurtz', 62) è contenuto in “The admirer of Mr. Kurtz was a bit crestfallen.
+il nome (u'Kurtz', 62) è contenuto in He was not afraid of the natives; they would
+not stir till Mr. Kurtz gave the word.
+il nome (u'Kurtz', 62) è contenuto in They would crawl.... 'I don't want to know
+anything of the ceremonies used when approaching Mr. Kurtz,' I shouted.
+il nome (u'Kurtz', 62) è contenuto in Curious, this feeling that came over me that such details would be more
+intolerable than those heads drying on the stakes under Mr. Kurtz's
+windows.
+il nome (u'Kurtz', 62) è contenuto in I suppose it did not occur to
+him that Mr. Kurtz was no idol of mine.
+il nome (u'Kurtz', 62) è contenuto in If it had come to crawling before Mr. Kurtz, he
+crawled as much as the veriest savage of them all.
+il nome (u'Kurtz', 62) è contenuto in 'You don't know how such a life tries a man like Kurtz,' cried
+Kurtz's last disciple.
+il nome (u'Kurtz', 62) è contenuto in Kurtz--Kurtz--that means short in German--don't it?
+il nome (u'Kurtz', 62) è contenuto in At least
+it must have been that, for she talked like a fury to Kurtz for an hour,
+pointing at me now and then.
+il nome (u'Kurtz', 62) è contenuto in Luckily for me, I fancy Kurtz felt too ill that day to care, or
+there would have been mischief.
+il nome (u'Kurtz', 62) è contenuto in “At this moment I heard Kurtz's deep voice behind the curtain: 'Save
+me!--save the ivory, you mean.
+il nome (u'Kurtz', 62) è contenuto in But there is no disguising the
+fact, Mr. Kurtz has done more harm than good to the Company.
+il nome (u'Kurtz', 62) è contenuto in It
+seemed to me I had never breathed an atmosphere so vile, and I turned
+mentally to Kurtz for relief--positively for relief.
+il nome (u'Kurtz', 62) è contenuto in 'Nevertheless I
+think Mr. Kurtz is a remarkable man,' I said with emphasis.
+il nome (u'Kurtz', 62) è contenuto in My hour of favour was over; I found myself lumped along
+with Kurtz as a partisan of methods for which the time was not ripe:
+I was unsound!
+il nome (u'Kurtz', 62) è contenuto in “I had turned to the wilderness really, not to Mr. Kurtz, who, I was
+ready to admit, was as good as buried.
+il nome (u'Kurtz', 62) è contenuto in I heard
+him mumbling and stammering something about 'brother seaman--couldn't
+conceal--knowledge of matters that would affect Mr. Kurtz's
+reputation.'
+il nome (u'Kurtz', 62) è contenuto in For him evidently Mr. Kurtz was not in his grave;
+I suspect that for him Mr. Kurtz was one of the immortals.
+il nome (u'Kurtz', 62) è contenuto in As it happens, I am Mr. Kurtz's friend--in a
+way.'
+il nome (u'Kurtz', 62) è contenuto in 'I can do no more for Kurtz now, and they would soon
+find some excuse.
+il nome (u'Kurtz', 62) è contenuto in He stood biting his lip, then: 'I don't want any harm to happen
+to these whites here, but of course I was thinking of Mr. Kurtz's
+reputation--but you are a brother seaman and--' 'All right,' said I,
+after a time.
+il nome (u'Kurtz', 62) è contenuto in Kurtz's reputation is safe with me.'
+il nome (u'Kurtz', 62) è contenuto in “He informed me, lowering his voice, that it was Kurtz who had ordered
+the attack to be made on the steamer.
+il nome (u'Kurtz', 62) è contenuto in One of the agents with a picket of a few of our blacks,
+armed for the purpose, was keeping guard over the ivory; but deep within
+the forest, red gleams that wavered, that seemed to sink and rise from
+the ground amongst confused columnar shapes of intense blackness, showed
+the exact position of the camp where Mr. Kurtz's adorers were keeping
+their uneasy vigil.
+il nome (u'Kurtz', 62) è contenuto in A light was burning within, but
+Mr. Kurtz was not there.
+il nome (u'Kurtz', 62) è contenuto in I did not betray Mr. Kurtz--it was ordered I should never betray him--it
+was written I should be loyal to the nightmare of my choice.
+il nome (u'Kurtz', 62) è contenuto in I was circumventing Kurtz as
+though it had been a boyish game.
+il nome (u'Kurtz', 62) è contenuto in “We had carried Kurtz into the pilot-house: there was more air there.
+il nome (u'Kurtz', 62) è contenuto in “The brown current ran swiftly out of the heart of darkness, bearing us
+down towards the sea with twice the speed of our upward progress; and
+Kurtz's life was running swiftly, too, ebbing, ebbing out of his heart
+into the sea of inexorable time.
+il nome (u'Kurtz', 62) è contenuto in “Kurtz discoursed.
+il nome (u'Kurtz', 62) è contenuto in The shade of the original Kurtz frequented the bedside of
+the hollow sham, whose fate it was to be buried presently in the mould
+of primeval earth.
+il nome (u'Kurtz', 62) è contenuto in 'Close the shutter,' said Kurtz suddenly one day; 'I
+can't bear to look at this.'
+il nome (u'Kurtz', 62) è contenuto in This delay was the first thing that shook Kurtz's
+confidence.
+il nome (u'Kurtz', 62) è contenuto in Suddenly the manager's boy put his insolent black head in the doorway,
+and said in a tone of scathing contempt:
+
+“'Mistah Kurtz--he dead.'
+il nome (u'Kurtz', 62) è contenuto in “However, as you see, I did not go to join Kurtz there and then.
+il nome (u'Kurtz', 62) è contenuto in I remained to dream the nightmare out to the end, and to show my
+loyalty to Kurtz once more.
+il nome (u'Kurtz', 62) è contenuto in This is the reason why I affirm that Kurtz was a
+remarkable man.
+il nome (u'Kurtz', 62) è contenuto in That is why I have remained loyal to Kurtz to the last, and even beyond,
+when a long time after I heard once more, not his own voice, but the
+echo of his magnificent eloquence thrown to me from a soul as
+translucently pure as a cliff of crystal.
+il nome (u'Kurtz', 62) è contenuto in I kept
+the bundle of papers given me by Kurtz, not knowing exactly what to do
+with it.
+il nome (u'Kurtz', 62) è contenuto in Kurtz's
+knowledge of unexplored regions must have been necessarily extensive
+and peculiar--owing to his great abilities and to the deplorable
+circumstances in which he had been placed: therefore--' I assured him
+Mr. Kurtz's knowledge, however extensive, did not bear upon the problems
+of commerce or administration.
+il nome (u'Kurtz', 62) è contenuto in He
+withdrew upon some threat of legal proceedings, and I saw him no more;
+but another fellow, calling himself Kurtz's cousin, appeared two days
+later, and was anxious to hear all the details about his dear relative's
+last moments.
+il nome (u'Kurtz', 62) è contenuto in Incidentally he gave me to understand that Kurtz had
+been essentially a great musician.
+il nome (u'Kurtz', 62) è contenuto in I had no reason to doubt
+his statement; and to this day I am unable to say what was Kurtz's
+profession, whether he ever had any--which was the greatest of his
+talents.
+il nome (u'Kurtz', 62) è contenuto in This visitor
+informed me Kurtz's proper sphere ought to have been politics 'on the
+popular side.'
+il nome (u'Kurtz', 62) è contenuto in He had furry straight eyebrows, bristly hair cropped
+short, an eyeglass on a broad ribbon, and, becoming expansive, confessed
+his opinion that Kurtz really couldn't write a bit--'but heavens!
+il nome (u'Kurtz', 62) è contenuto in All that had been Kurtz's had passed out of my hands: his soul,
+his body, his station, his plans, his ivory, his career.
+il nome (u'Kurtz', 62) è contenuto in I had heard
+that her engagement with Kurtz had been disapproved by her people.
+il nome (u'Kurtz', 62) è contenuto in Would they have fallen, I wonder, if I
+had rendered Kurtz that justice which was his due?
+Analisi per il nome: (u'Kurtz', 62)
+la frase più corta in cui compare (u'Kurtz', 62) è: Kurtz.'
+la frase più lunga in cui compare (u'Kurtz', 62) è: The
+other explained that it had come with a fleet of canoes in charge of an
+English half-caste clerk Kurtz had with him; that Kurtz had apparently
+intended to return himself, the station being by that time bare of goods
+and stores, but after coming three hundred miles, had suddenly decided
+to go back, which he started to do alone in a small dugout with four
+paddlers, leaving the half-caste to continue down the river with the
+ivory.
+i dieci luoghi più frequenti per (u'Kurtz', 62) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Kurtz', 62) sono [(u'Kurtz', 113), (u'Mr.', 46), (u"Kurtz's", 6), (u'Company', 2), (u'Europe', 1), (u"Kurtz'", 1), (u'England', 1), (u'Savage', 1), (u'Mind', 1), (u'Hang', 1)]
+i dieci sostantivi più frequenti per (u'Kurtz', 62) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Kurtz', 62) sono [(u'was', 55), (u'had', 45), (u'been', 18), (u'would', 16), (u'be', 12), (u'have', 12), (u'do', 11), (u'said', 11), (u'see', 10), (u'could', 10)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Kurtz', 62) è:'  Would they have fallen, I wonder, if I
+had rendered Kurtz that justice which was his due? ' e la sua probabilità è 1.63943941742e-32
+Analisi per il nome: (u'Mr.Kurtz', 39)
+i dieci luoghi più frequenti per (u'Mr.Kurtz', 39) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Mr.Kurtz', 39) sono []
+i dieci sostantivi più frequenti per (u'Mr.Kurtz', 39) sono []
+i dieci verbi più frequenti per (u'Mr.Kurtz', 39) sono []
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Mr.Kurtz', 39) è:'  The offing was
+barred by a black bank of clouds, and the tranquil waterway leading to
+the uttermost ends of the earth flowed sombre under an overcast
+sky--seemed to lead into the heart of an immense darkness. ' e la sua probabilità è 1.63943941742e-32
+il nome (u'Marlow', 9) è contenuto in Marlow
+sat cross-legged right aft, leaning against the mizzen-mast.
+il nome (u'Marlow', 9) è contenuto in “And this also,” said Marlow suddenly, “has been one of the dark places
+of the earth.”
+
+He was the only man of us who still “followed the sea.” The worst that
+could be said of him was that he did not represent his class.
+il nome (u'Marlow', 9) è contenuto in But Marlow was not typical (if his propensity
+to spin yarns be excepted), and to him the meaning of an episode was not
+inside like a kernel but outside, enveloping the tale which brought it
+out only as a glow brings out a haze, in the likeness of one of these
+misty halos that sometimes are made visible by the spectral illumination
+of moonshine.
+il nome (u'Marlow', 9) è contenuto in It was just like Marlow.
+il nome (u'Marlow', 9) è contenuto in We looked on,
+waiting patiently--there was nothing else to do till the end of
+the flood; but it was only after a long silence, when he said, in
+a hesitating voice, “I suppose you fellows remember I did once turn
+fresh-water sailor for a bit,” that we knew we were fated, before
+the ebb began to run, to hear about one of Marlow's inconclusive
+experiences.
+il nome (u'Marlow', 9) è contenuto in I, Charlie Marlow, set the women to work--to get a job.
+il nome (u'Marlow', 9) è contenuto in Yes--I let him run on,” Marlow began again, “and think what
+he pleased about the powers that were behind me.
+il nome (u'Marlow', 9) è contenuto in half-a-crown a tumble--”
+
+“Try to be civil, Marlow,” growled a voice, and I knew there was at
+least one listener awake besides myself.
+il nome (u'Marlow', 9) è contenuto in There was a pause of profound stillness, then a match flared, and
+Marlow's lean face appeared, worn, hollow, with downward folds and
+dropped eyelids, with an aspect of concentrated attention; and as he
+took vigorous draws at his pipe, it seemed to retreat and advance out of
+the night in the regular flicker of tiny flame.
+il nome (u'Marlow', 9) è contenuto in It would have
+been too dark--too dark altogether....”
+
+Marlow ceased, and sat apart, indistinct and silent, in the pose of a
+meditating Buddha.
+Analisi per il nome: (u'Marlow', 9)
+la frase più corta in cui compare (u'Marlow', 9) è: It was just like Marlow.
+la frase più lunga in cui compare (u'Marlow', 9) è: We looked on,
+waiting patiently--there was nothing else to do till the end of
+the flood; but it was only after a long silence, when he said, in
+a hesitating voice, “I suppose you fellows remember I did once turn
+fresh-water sailor for a bit,” that we knew we were fated, before
+the ebb began to run, to hear about one of Marlow's inconclusive
+experiences.
+i dieci luoghi più frequenti per (u'Marlow', 9) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Marlow', 9) sono [(u'Marlow', 10), (u'\u201d', 3), (u'Charlie', 1), (u'Try', 1), (u'Buddha', 1)]
+i dieci sostantivi più frequenti per (u'Marlow', 9) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Marlow', 9) sono [(u'was', 9), (u'\u201d', 3), (u'said', 3), (u'be', 3), (u'\u201c', 2), (u'sat', 2), (u'began', 2), (u'been', 2), (u'run', 2), (u'knew', 2)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Marlow', 9) è:'  It would have
+been too dark--too dark altogether....”
+
+Marlow ceased, and sat apart, indistinct and silent, in the pose of a
+meditating Buddha. ' e la sua probabilità è 1.20392191075e-35
+il nome (u'Mr.', 7) è contenuto in “One day he remarked, without lifting his head, 'In the interior you
+will no doubt meet Mr.
+il nome (u'Mr.', 7) è contenuto in On my asking who Mr. Kurtz was, he
+said he was a first-class agent; and seeing my disappointment at
+this information, he added slowly, laying down his pen, 'He is a very
+remarkable person.'
+il nome (u'Mr.', 7) è contenuto in Further questions elicited from him that Mr. Kurtz
+was at present in charge of a trading-post, a very important one, in the
+true ivory-country, at 'the very bottom of there.
+il nome (u'Mr.', 7) è contenuto in 'When you see Mr. Kurtz'
+he went on, 'tell him from me that everything here'--he glanced at the
+deck--' is very satisfactory.
+il nome (u'Mr.', 7) è contenuto in There were rumours that a very important
+station was in jeopardy, and its chief, Mr. Kurtz, was ill. Hoped it was
+not true.
+il nome (u'Mr.', 7) è contenuto in Mr. Kurtz was...
+il nome (u'Mr.', 7) è contenuto in I interrupted him by saying I had heard of Mr. Kurtz on the
+coast.
+il nome (u'Mr.', 7) è contenuto in Then he began again, assuring me Mr. Kurtz was the best agent he had, an
+exceptional man, of the greatest importance to the Company; therefore
+I could understand his anxiety.
+il nome (u'Mr.', 7) è contenuto in Certainly he fidgeted on his chair a good deal, exclaimed, 'Ah, Mr.
+il nome (u'Mr.', 7) è contenuto in To my
+question he said Mr. Kurtz had painted this--in this very station more
+than a year ago--while waiting for means to go to his trading post.
+il nome (u'Mr.', 7) è contenuto in 'Tell me, pray,' said I, 'who is this Mr.
+il nome (u'Mr.', 7) è contenuto in 'When Mr. Kurtz,' I continued, severely, 'is
+General Manager, you won't have the opportunity.'
+il nome (u'Mr.', 7) è contenuto in 'My dear sir,' said the fellow, 'I don't want to be misunderstood, and
+especially by you, who will see Mr. Kurtz long before I can have
+that pleasure.
+il nome (u'Mr.', 7) è contenuto in I could
+see a little ivory coming out from there, and I had heard Mr. Kurtz was
+in there.
+il nome (u'Mr.', 7) è contenuto in Mr. Kurtz was a 'universal
+genius,' but even a genius would find it easier to work with 'adequate
+tools--intelligent men.'
+il nome (u'Mr.', 7) è contenuto in I said I
+could see that very well, but what I wanted was a certain quantity of
+rivets--and rivets were what really Mr. Kurtz wanted, if he had only
+known it.
+il nome (u'Mr.', 7) è contenuto in 'It is very
+serious,' said the manager's voice behind me; 'I would be desolated if
+anything should happen to Mr. Kurtz before we came up.'
+il nome (u'Mr.', 7) è contenuto in 'And by the way, I suppose
+Mr. Kurtz is dead as well by this time.'
+il nome (u'Mr.', 7) è contenuto in I couldn't have been
+more disgusted if I had travelled all this way for the sole purpose of
+talking with Mr. Kurtz.
+il nome (u'Mr.', 7) è contenuto in You should have heard the
+disinterred body of Mr. Kurtz saying, 'My Intended.'
+il nome (u'Mr.', 7) è contenuto in And the lofty
+frontal bone of Mr. Kurtz!
+il nome (u'Mr.', 7) è contenuto in It appears these niggers do bury the
+tusks sometimes--but evidently they couldn't bury this parcel deep
+enough to save the gifted Mr. Kurtz from his fate.
+il nome (u'Mr.', 7) è contenuto in Mind, I am not trying to excuse or even explain--I am
+trying to account to myself for--for--Mr. Kurtz--for the shade of Mr.
+Kurtz.
+il nome (u'Mr.', 7) è contenuto in But this must have been before his--let us say--nerves,
+went wrong, and caused him to preside at certain midnight dances ending
+with unspeakable rites, which--as far as I reluctantly gathered
+from what I heard at various times--were offered up to him--do you
+understand?--to Mr. Kurtz himself.
+il nome (u'Mr.', 7) è contenuto in 'Don't
+you talk with Mr.
+il nome (u'Mr.', 7) è contenuto in Here I met Mr. Kurtz,' he said, youthfully solemn and
+reproachful.
+il nome (u'Mr.', 7) è contenuto in You can't judge Mr. Kurtz as you would an ordinary man.
+il nome (u'Mr.', 7) è contenuto in Mr. Kurtz couldn't be mad.
+il nome (u'Mr.', 7) è contenuto in The
+Russian was explaining to me that it was only lately that Mr. Kurtz had
+come down to the river, bringing along with him all the fighting men of
+that lake tribe.
+il nome (u'Mr.', 7) è contenuto in In fact, the manager said
+afterwards that Mr. Kurtz's methods had ruined the district.
+il nome (u'Mr.', 7) è contenuto in They only
+showed that Mr. Kurtz lacked restraint in the gratification of his
+various lusts, that there was something wanting in him--some small
+matter which, when the pressing need arose, could not be found under
+his magnificent eloquence.
+il nome (u'Mr.', 7) è contenuto in “The admirer of Mr. Kurtz was a bit crestfallen.
+il nome (u'Mr.', 7) è contenuto in He was not afraid of the natives; they would
+not stir till Mr. Kurtz gave the word.
+il nome (u'Mr.', 7) è contenuto in They would crawl.... 'I don't want to know
+anything of the ceremonies used when approaching Mr. Kurtz,' I shouted.
+il nome (u'Mr.', 7) è contenuto in Curious, this feeling that came over me that such details would be more
+intolerable than those heads drying on the stakes under Mr. Kurtz's
+windows.
+il nome (u'Mr.', 7) è contenuto in I suppose it did not occur to
+him that Mr. Kurtz was no idol of mine.
+il nome (u'Mr.', 7) è contenuto in If it had come to crawling before Mr. Kurtz, he
+crawled as much as the veriest savage of them all.
+il nome (u'Mr.', 7) è contenuto in But there is no disguising the
+fact, Mr. Kurtz has done more harm than good to the Company.
+il nome (u'Mr.', 7) è contenuto in 'Nevertheless I
+think Mr. Kurtz is a remarkable man,' I said with emphasis.
+il nome (u'Mr.', 7) è contenuto in “I had turned to the wilderness really, not to Mr. Kurtz, who, I was
+ready to admit, was as good as buried.
+il nome (u'Mr.', 7) è contenuto in I heard
+him mumbling and stammering something about 'brother seaman--couldn't
+conceal--knowledge of matters that would affect Mr. Kurtz's
+reputation.'
+il nome (u'Mr.', 7) è contenuto in For him evidently Mr. Kurtz was not in his grave;
+I suspect that for him Mr. Kurtz was one of the immortals.
+il nome (u'Mr.', 7) è contenuto in As it happens, I am Mr. Kurtz's friend--in a
+way.'
+il nome (u'Mr.', 7) è contenuto in He stood biting his lip, then: 'I don't want any harm to happen
+to these whites here, but of course I was thinking of Mr. Kurtz's
+reputation--but you are a brother seaman and--' 'All right,' said I,
+after a time.
+il nome (u'Mr.', 7) è contenuto in 'Mr.
+il nome (u'Mr.', 7) è contenuto in One of the agents with a picket of a few of our blacks,
+armed for the purpose, was keeping guard over the ivory; but deep within
+the forest, red gleams that wavered, that seemed to sink and rise from
+the ground amongst confused columnar shapes of intense blackness, showed
+the exact position of the camp where Mr. Kurtz's adorers were keeping
+their uneasy vigil.
+il nome (u'Mr.', 7) è contenuto in A light was burning within, but
+Mr. Kurtz was not there.
+il nome (u'Mr.', 7) è contenuto in I did not betray Mr. Kurtz--it was ordered I should never betray him--it
+was written I should be loyal to the nightmare of my choice.
+il nome (u'Mr.', 7) è contenuto in And said he, 'Mr.
+il nome (u'Mr.', 7) è contenuto in Kurtz's
+knowledge of unexplored regions must have been necessarily extensive
+and peculiar--owing to his great abilities and to the deplorable
+circumstances in which he had been placed: therefore--' I assured him
+Mr. Kurtz's knowledge, however extensive, did not bear upon the problems
+of commerce or administration.
+Analisi per il nome: (u'Mr.', 7)
+la frase più corta in cui compare (u'Mr.', 7) è: 'Mr.
+la frase più lunga in cui compare (u'Mr.', 7) è: One of the agents with a picket of a few of our blacks,
+armed for the purpose, was keeping guard over the ivory; but deep within
+the forest, red gleams that wavered, that seemed to sink and rise from
+the ground amongst confused columnar shapes of intense blackness, showed
+the exact position of the camp where Mr. Kurtz's adorers were keeping
+their uneasy vigil.
+i dieci luoghi più frequenti per (u'Mr.', 7) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Mr.', 7) sono [(u'Mr.', 46), (u'Kurtz', 42), (u"Kurtz's", 4), (u'Mr', 4), (u'Company', 2), (u"Kurtz'", 1), (u'Mind', 1), (u'Manager', 1), (u'General', 1), (u'Russian', 1)]
+i dieci sostantivi più frequenti per (u'Mr.', 7) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Mr.', 7) sono [(u'was', 27), (u'had', 11), (u'said', 11), (u'could', 7), (u'would', 7), (u'is', 7), (u'be', 6), (u'have', 6), (u'do', 5), (u'should', 4)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Mr.', 7) è:'  Kurtz's
+knowledge of unexplored regions must have been necessarily extensive
+and peculiar--owing to his great abilities and to the deplorable
+circumstances in which he had been placed: therefore--' I assured him
+Mr. Kurtz's knowledge, however extensive, did not bear upon the problems
+of commerce or administration. ' e la sua probabilità è 7.69862224439e-30
+il nome (u'Jove', 5) è contenuto in By Jove!
+il nome (u'Jove', 5) è contenuto in The smell of mud, of primeval mud,
+by Jove!
+il nome (u'Jove', 5) è contenuto in Arrows, by
+Jove!
+il nome (u'Jove', 5) è contenuto in I thought,
+'By Jove!
+il nome (u'Jove', 5) è contenuto in The earth for us is a place to live in, where we must put up with
+sights, with sounds, with smells, too, by Jove!--breathe dead hippo,
+so to speak, and not be contaminated.
+il nome (u'Jove', 5) è contenuto in And, by Jove!
+Analisi per il nome: (u'Jove', 5)
+la frase più corta in cui compare (u'Jove', 5) è: By Jove!
+la frase più lunga in cui compare (u'Jove', 5) è: The earth for us is a place to live in, where we must put up with
+sights, with sounds, with smells, too, by Jove!--breathe dead hippo,
+so to speak, and not be contaminated.
+i dieci luoghi più frequenti per (u'Jove', 5) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Jove', 5) sono [(u'Jove', 6)]
+i dieci sostantivi più frequenti per (u'Jove', 5) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Jove', 5) sono [(u'be', 1), (u'is', 1), (u'thought', 1), (u'live', 1), (u'contaminated', 1), (u'put', 1), (u'must', 1), (u'speak', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Jove', 5) è:'  And, by Jove! ' e la sua probabilità è 7.69862224439e-30
+il nome (u'Towson', 3) è contenuto in Its title was, _An
+Inquiry into some Points of Seamanship_, by a man Towser, Towson--some
+such name--Master in his Majesty's Navy.
+il nome (u'Towson', 3) è contenuto in Within, Towson or Towser was inquiring earnestly into the
+breaking strain of ships' chains and tackle, and other such matters.
+il nome (u'Towson', 3) è contenuto in “I gave him Towson's book.
+il nome (u'Towson', 3) è contenuto in One of his
+pockets (bright red) was bulging with cartridges, from the other (dark
+blue) peeped 'Towson's Inquiry,' etc., etc.
+Analisi per il nome: (u'Towson', 3)
+la frase più corta in cui compare (u'Towson', 3) è: “I gave him Towson's book.
+la frase più lunga in cui compare (u'Towson', 3) è: Its title was, _An
+Inquiry into some Points of Seamanship_, by a man Towser, Towson--some
+such name--Master in his Majesty's Navy.
+i dieci luoghi più frequenti per (u'Towson', 3) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Towson', 3) sono [(u'Towson', 3), (u'Inquiry', 2), (u'Towser', 2), (u'Majesty', 1), (u'Seamanship_', 1), (u'Navy', 1), (u'_An', 1), (u"'Towson", 1)]
+i dieci sostantivi più frequenti per (u'Towson', 3) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Towson', 3) sono [(u'was', 3), (u'bulging', 1), (u'breaking', 1), (u'gave', 1), (u'inquiring', 1), (u'peeped', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Towson', 3) è:'  One of his
+pockets (bright red) was bulging with cartridges, from the other (dark
+blue) peeped 'Towson's Inquiry,' etc., etc. ' e la sua probabilità è 7.69862224439e-30
+il nome (u'Fresleven', 3) è contenuto in Fresleven--that was the fellow's name, a Dane--thought
+himself wronged somehow in the bargain, so he went ashore and started to
+hammer the chief of the village with a stick.
+il nome (u'Fresleven', 3) è contenuto in Oh, it didn't surprise
+me in the least to hear this, and at the same time to be told that
+Fresleven was the gentlest, quietest creature that ever walked on two
+legs.
+il nome (u'Fresleven', 3) è contenuto in Then the whole population cleared into the forest,
+expecting all kinds of calamities to happen, while, on the other hand,
+the steamer Fresleven commanded left also in a bad panic, in charge of
+the engineer, I believe.
+il nome (u'Fresleven', 3) è contenuto in Afterwards nobody seemed to trouble much
+about Fresleven's remains, till I got out and stepped into his shoes.
+Analisi per il nome: (u'Fresleven', 3)
+la frase più corta in cui compare (u'Fresleven', 3) è: Afterwards nobody seemed to trouble much
+about Fresleven's remains, till I got out and stepped into his shoes.
+la frase più lunga in cui compare (u'Fresleven', 3) è: Then the whole population cleared into the forest,
+expecting all kinds of calamities to happen, while, on the other hand,
+the steamer Fresleven commanded left also in a bad panic, in charge of
+the engineer, I believe.
+i dieci luoghi più frequenti per (u'Fresleven', 3) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Fresleven', 3) sono [(u'Fresleven', 4), (u'Dane', 1)]
+i dieci sostantivi più frequenti per (u'Fresleven', 3) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Fresleven', 3) sono [(u'was', 2), (u'be', 1), (u'wronged', 1), (u'got', 1), (u'started', 1), (u'hammer', 1), (u'believe', 1), (u'stepped', 1), (u'walked', 1), (u'seemed', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Fresleven', 3) è:'  Afterwards nobody seemed to trouble much
+about Fresleven's remains, till I got out and stepped into his shoes. ' e la sua probabilità è 7.69862224439e-30
+Analisi per il nome: (u'SavageCustoms', 2)
+i dieci luoghi più frequenti per (u'SavageCustoms', 2) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'SavageCustoms', 2) sono []
+i dieci sostantivi più frequenti per (u'SavageCustoms', 2) sono []
+i dieci verbi più frequenti per (u'SavageCustoms', 2) sono []
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'SavageCustoms', 2) è:'  The offing was
+barred by a black bank of clouds, and the tranquil waterway leading to
+the uttermost ends of the earth flowed sombre under an overcast
+sky--seemed to lead into the heart of an immense darkness. ' e la sua probabilità è 7.69862224439e-30
+il nome (u'Hang', 2) è contenuto in 'Hanged himself!
+il nome (u'Hang', 2) è contenuto in Hang Kurtz,
+I thought.
+il nome (u'Hang', 2) è contenuto in I said
+Hang!--and let things slide.
+Analisi per il nome: (u'Hang', 2)
+la frase più corta in cui compare (u'Hang', 2) è: 'Hanged himself!
+la frase più lunga in cui compare (u'Hang', 2) è: I said
+Hang!--and let things slide.
+i dieci luoghi più frequenti per (u'Hang', 2) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Hang', 2) sono [(u'Hang', 2), (u'Kurtz', 1)]
+i dieci sostantivi più frequenti per (u'Hang', 2) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1)]
+i dieci verbi più frequenti per (u'Hang', 2) sono [(u'thought', 1), (u'slide', 1), (u'said', 1), (u'let', 1), (u"'Hanged", 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Hang', 2) è:'  I said
+Hang!--and let things slide. ' e la sua probabilità è 1.06130309769e-27
+il nome (u'Nowhere', 2) è contenuto in Nowhere did we
+stop long enough to get a particularized impression, but the general
+sense of vague and oppressive wonder grew upon me.
+il nome (u'Nowhere', 2) è contenuto in This initiated wraith from the back of Nowhere honoured me with
+its amazing confidence before it vanished altogether.
+il nome (u'Nowhere', 2) è contenuto in He desired to have kings meet
+him at railway-stations on his return from some ghastly Nowhere, where
+he intended to accomplish great things.
+Analisi per il nome: (u'Nowhere', 2)
+la frase più corta in cui compare (u'Nowhere', 2) è: This initiated wraith from the back of Nowhere honoured me with
+its amazing confidence before it vanished altogether.
+la frase più lunga in cui compare (u'Nowhere', 2) è: He desired to have kings meet
+him at railway-stations on his return from some ghastly Nowhere, where
+he intended to accomplish great things.
+i dieci luoghi più frequenti per (u'Nowhere', 2) sono [(u'English', 9), (u'Europe', 8), (u'Russian', 8), (u'Kurtz', 8), (u'Fine', 3), (u'Good', 3), (u'French', 3), (u'Thames', 3), (u'Swede', 3), (u'Ah', 3)]
+le dieci persone più frequenti per (u'Nowhere', 2) sono [(u'Nowhere', 2)]
+i dieci sostantivi più frequenti per (u'Nowhere', 2) sono [(u'Help', 2), (u'pity', 1), (u'sake', 1), (u'fingers', 1), (u'arms', 1), (u'mother', 1), (u'front', 1)]
+i dieci verbi più frequenti per (u'Nowhere', 2) sono [(u'grew', 1), (u'intended', 1), (u'initiated', 1), (u'get', 1), (u'did', 1), (u'stop', 1), (u'desired', 1), (u'amazing', 1), (u'accomplish', 1), (u'honoured', 1)]
+la frase lunga minimo 8 token e massimo 12 con probabilità più alta per (u'Nowhere', 2) è:'  He desired to have kings meet
+him at railway-stations on his return from some ghastly Nowhere, where
+he intended to accomplish great things. ' e la sua probabilità è 1.06130309769e-27
+Air-di-Genny:desktop gennymiola$ 

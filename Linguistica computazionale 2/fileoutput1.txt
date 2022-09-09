@@ -1,0 +1,95 @@
+Last login: Tue Apr  7 21:42:40 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Air-di-Genny:~ gennymiola$ cd desktop
+Air-di-Genny:desktop gennymiola$ python programmalinguisticacomp.py lemetamorfosi.txt cuoreditenebra.txt
+il numero delle frasi delle Metamorfosi è 797
+il numero delle frasi di Cuore di tenebra è 2417
+il numero dei tokens delle Metamorfosi è 24935
+il numero dei tokens di Cuore di tenebra è 45769
+lunghezza delle frasi in termini di tokens per le Metamorfosi 31
+lunghezza delle frasi in termini di tokens per Cuore di tenebra 18
+lunghezza media delle parole in termini di caratteri per le Metamorfosi 3.87539602968
+lunghezza media delle parole in termini di caratteri per Cuore di tenebra 3.76508116848
+La grandezza del vocabolario delle Metamorfosi è 2732
+La grandezza del vocabolario di Cuore di Tenebra è 5980
+il numero degli hapax delle Metamorfosi in 1000 tokens è 269
+il numero degli hapax delle Metamorfosi in 2000 tokens è 414
+il numero degli hapax delle Metamorfosi in 3000 tokens è 495
+il numero degli hapax delle Metamorfosi in 4000 tokens è 546
+il numero degli hapax delle Metamorfosi in 5000 tokens è 606
+il numero degli hapax delle Metamorfosi in 6000 tokens è 659
+il numero degli hapax delle Metamorfosi in 7000 tokens è 700
+il numero degli hapax delle Metamorfosi in 8000 tokens è 755
+il numero degli hapax delle Metamorfosi in 9000 tokens è 805
+il numero degli hapax delle Metamorfosi in 10000 tokens è 856
+il numero degli hapax delle Metamorfosi in 11000 tokens è 906
+il numero degli hapax delle Metamorfosi in 12000 tokens è 976
+il numero degli hapax delle Metamorfosi in 13000 tokens è 983
+il numero degli hapax delle Metamorfosi in 14000 tokens è 1005
+il numero degli hapax delle Metamorfosi in 15000 tokens è 1033
+il numero degli hapax delle Metamorfosi in 16000 tokens è 1074
+il numero degli hapax delle Metamorfosi in 17000 tokens è 1134
+il numero degli hapax delle Metamorfosi in 18000 tokens è 1167
+il numero degli hapax delle Metamorfosi in 19000 tokens è 1205
+il numero degli hapax delle Metamorfosi in 20000 tokens è 1229
+il numero degli hapax delle Metamorfosi in 21000 tokens è 1263
+il numero degli hapax delle Metamorfosi in 22000 tokens è 1292
+il numero degli hapax delle Metamorfosi in 23000 tokens è 1304
+il numero degli hapax delle Metamorfosi in 24000 tokens è 1339
+il numero degli hapax di Cuore di tenebra in 1000 tokens è 349
+il numero degli hapax di Cuore di tenebra in 2000 tokens è 549
+il numero degli hapax di Cuore di tenebra in 3000 tokens è 697
+il numero degli hapax di Cuore di tenebra in 4000 tokens è 829
+il numero degli hapax di Cuore di tenebra in 5000 tokens è 987
+il numero degli hapax di Cuore di tenebra in 6000 tokens è 1117
+il numero degli hapax di Cuore di tenebra in 7000 tokens è 1262
+il numero degli hapax di Cuore di tenebra in 8000 tokens è 1409
+il numero degli hapax di Cuore di tenebra in 9000 tokens è 1519
+il numero degli hapax di Cuore di tenebra in 10000 tokens è 1634
+il numero degli hapax di Cuore di tenebra in 11000 tokens è 1704
+il numero degli hapax di Cuore di tenebra in 12000 tokens è 1768
+il numero degli hapax di Cuore di tenebra in 13000 tokens è 1847
+il numero degli hapax di Cuore di tenebra in 14000 tokens è 1909
+il numero degli hapax di Cuore di tenebra in 15000 tokens è 1935
+il numero degli hapax di Cuore di tenebra in 16000 tokens è 1991
+il numero degli hapax di Cuore di tenebra in 17000 tokens è 2083
+il numero degli hapax di Cuore di tenebra in 18000 tokens è 2143
+il numero degli hapax di Cuore di tenebra in 19000 tokens è 2218
+il numero degli hapax di Cuore di tenebra in 20000 tokens è 2289
+il numero degli hapax di Cuore di tenebra in 21000 tokens è 2336
+il numero degli hapax di Cuore di tenebra in 22000 tokens è 2403
+il numero degli hapax di Cuore di tenebra in 23000 tokens è 2466
+il numero degli hapax di Cuore di tenebra in 24000 tokens è 2534
+il numero degli hapax di Cuore di tenebra in 25000 tokens è 2572
+il numero degli hapax di Cuore di tenebra in 26000 tokens è 2604
+il numero degli hapax di Cuore di tenebra in 27000 tokens è 2633
+il numero degli hapax di Cuore di tenebra in 28000 tokens è 2690
+il numero degli hapax di Cuore di tenebra in 29000 tokens è 2736
+il numero degli hapax di Cuore di tenebra in 30000 tokens è 2779
+il numero degli hapax di Cuore di tenebra in 31000 tokens è 2830
+il numero degli hapax di Cuore di tenebra in 32000 tokens è 2876
+il numero degli hapax di Cuore di tenebra in 33000 tokens è 2899
+il numero degli hapax di Cuore di tenebra in 34000 tokens è 2949
+il numero degli hapax di Cuore di tenebra in 35000 tokens è 2964
+il numero degli hapax di Cuore di tenebra in 36000 tokens è 3004
+il numero degli hapax di Cuore di tenebra in 37000 tokens è 3031
+il numero degli hapax di Cuore di tenebra in 38000 tokens è 3072
+il numero degli hapax di Cuore di tenebra in 39000 tokens è 3098
+il numero degli hapax di Cuore di tenebra in 40000 tokens è 3124
+il numero degli hapax di Cuore di tenebra in 41000 tokens è 3155
+il numero degli hapax di Cuore di tenebra in 42000 tokens è 3198
+il numero degli hapax di Cuore di tenebra in 43000 tokens è 3247
+il numero degli hapax di Cuore di tenebra in 44000 tokens è 3277
+il numero degli hapax di Cuore di tenebra in 45000 tokens è 3293
+Il rapporto tra sostantivi e verbi per le Metamorfosi è 0.842083419797
+Il rapporto tra sostantivi e verbi per Cuore di Tenebra è 1.09827977064
+I dieci POS più frequenti delle Metamorfosi sono [('NN', 3055), ('IN', 2922), ('RB', 1968), ('PRP', 1934), ('DT', 1924), ('VBD', 1854), (',', 1293), ('VB', 1146), ('JJ', 1127), ('CC', 862)]
+I dieci POS più frequenti di Cuore di tenebra sono [('NN', 3055), ('IN', 2922), ('RB', 1968), ('PRP', 1934), ('DT', 1924), ('VBD', 1854), (',', 1293), ('VB', 1146), ('JJ', 1127), ('CC', 862)]
+La probabilità condizionata dei primi dieci bigrammi per le Metamorfosi è [(((u'tools', 'NNS'), (u';', ':')), 1.0), (((u'chest', 'JJ'), (u'shook', 'NN')), 1.0), (((u'threat', 'NN'), (u'of', 'IN')), 1.0), (((u'begun', 'VBN'), (u'to', 'TO')), 1.0), (((u'naturally', 'RB'), (u',', ',')), 1.0), (((u'well-worn', 'JJ'), (u'coats', 'NNS')), 1.0), (((u'delighted', 'JJ'), (u'family', 'NN')), 1.0), (((u'unsatisfactory', 'JJ'), (u'of', 'IN')), 1.0), (((u'crucial', 'JJ'), (u',', ',')), 1.0), (((u'throwing', 'VBG'), (u'down', 'RP')), 1.0)]
+La probabilità condizionata dei primi dieci bigrammi per Cuore di tenebra è [(((u'shell', 'NN'), (u'of', 'IN')), 1.0), (((u'Australia', 'NNP'), (u',', ',')), 1.0), (((u'white-haired', 'JJ'), (u'secretarial', 'JJ')), 1.0), (((u'surfaces', 'NNS'), (u'like', 'IN')), 1.0), (((u'grip', 'NN'), (u'on', 'IN')), 1.0), (((u'preeminently', 'RB'), (u',', ',')), 1.0), (((u'wrapped', 'VBN'), (u'in', 'IN')), 1.0), (((u'Lord', 'NN'), (u'!', '.')), 1.0), (((u'beating', 'VBG'), (u'the', 'DT')), 1.0), (((u'redeems', 'VBZ'), (u'it', 'PRP')), 1.0)]
+La forza di associazione dei primi dieci bigrammi per le Metamorfosi è [(((u'chest', 'JJ'), (u'shook', 'NN')), 14.605884582552477), (((u'well-worn', 'JJ'), (u'coats', 'NNS')), 14.605884582552477), (((u'square', 'JJ'), (u'meters', 'NNS')), 14.605884582552477), (((u'medical', 'JJ'), (u'insurance', 'NN')), 14.605884582552477), (((u'learned', 'VBN'), (u'shorthand', 'NN')), 14.605884582552477), (((u'grey-black', 'JJ'), (u'building', 'NN')), 14.605884582552477), (((u'surprising', 'JJ'), (u'achievements', 'NNS')), 14.605884582552477), (((u'studies', 'NNS'), (u'train', 'VBP')), 14.605884582552477), (((u'reported', 'VBD'), (u'sick', 'JJ')), 14.605884582552477), (((u'expressive', 'JJ'), (u'violinist', 'NN')), 14.605884582552477)]
+La forza di associazione dei primi dieci bigrammi per Cuore di tenebra è [(((u'everlasting', 'NN'), (u'confab', 'NN')), 15.482083150605321), (((u'sagacious', 'JJ'), (u'relative', 'NN')), 15.482083150605321), (((u'famous', 'JJ'), (u'Report', 'NNP')), 15.482083150605321), (((u'advanced', 'JJ'), (u'age', 'NN')), 15.482083150605321), (((u'Fleet', 'NNP'), (u'Street', 'NNP')), 15.482083150605321), (((u'initiated', 'VBN'), (u'wraith', 'NN')), 15.482083150605321), (((u'altruistic', 'JJ'), (u'sentiment', 'NN')), 15.482083150605321), (((u'delicate', 'NN'), (u'hooked', 'VBD')), 15.482083150605321), (((u'section', 'NN'), (u'headed', 'VBN')), 15.482083150605321), (((u'glow', 'JJ'), (u'brings', 'VBZ')), 15.482083150605321)]
+Air-di-Genny:desktop gennymiola$ 
